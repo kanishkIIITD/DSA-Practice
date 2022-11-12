@@ -15,7 +15,7 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        // Approach 2
+        // Approach 3
         Node cloneHead = null;
         Node cloneTail = null;
         
@@ -33,22 +33,40 @@ class Solution {
             temp = temp.next;
         }
         
-        Map<Node, Node> mapping = new HashMap<Node, Node>();
-        
-        Node oldNode = head;
-        Node newNode = cloneHead;
-        while(oldNode != null){
-            mapping.put(oldNode, newNode);
-            oldNode = oldNode.next;
-            newNode = newNode.next;
+        Node originalNode = head;
+        Node next1 = null;
+        Node cloneNode = cloneHead;
+        Node next2 = null;
+        while(cloneNode != null){
+            
+            next1 = originalNode.next;
+            originalNode.next = cloneNode;
+            originalNode = next1;
+            
+            next2 = cloneNode.next;
+            cloneNode.next = originalNode;
+            cloneNode = next2;
+            
         }
         
-        oldNode = head;
-        newNode = cloneHead;
-        while(oldNode != null){
-            newNode.random = mapping.get(oldNode.random);
-            oldNode = oldNode.next;
-            newNode = newNode.next;
+        temp = head;
+        while(temp != null){
+            if(temp.random != null)
+                temp.next.random = temp.random.next;
+            temp = temp.next.next;
+        }
+        
+        originalNode = head;
+        if(originalNode != null)
+            cloneNode = originalNode.next;
+        while(originalNode != null){
+            originalNode.next = cloneNode.next;
+            originalNode = originalNode.next;
+            
+            if(originalNode != null){
+                cloneNode.next = originalNode.next;
+                cloneNode = cloneNode.next;
+            }
         }
         
         return cloneHead;
