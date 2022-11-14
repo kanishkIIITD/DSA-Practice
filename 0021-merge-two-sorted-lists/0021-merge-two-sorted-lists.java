@@ -17,7 +17,7 @@ class Solution {
             cur.next = list2;
         }
         ListNode temp = list2;
-        ListNode next2 = temp.next;
+        ListNode next2 = null;
         while(temp != null && next != null){
             
             if(cur.val <= temp.val && temp.val <= next.val){
