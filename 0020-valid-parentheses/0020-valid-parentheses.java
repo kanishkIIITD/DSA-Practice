@@ -1,19 +1,28 @@
-public class Solution {
-    char[] right = {')', '}', ']'};
-    String left = "({[";
-    public boolean isValid(String s) {
-        int[] stack = new int[s.length()];
-        int head = 0; 
-        for(char c : s.toCharArray()) {
-            int rIdx = left.indexOf(c);
-            if(rIdx != -1) {
-                stack[head++] = rIdx;
-                continue;
+class Solution {
+    public boolean isValid(String st) {
+        Stack<Character> s = new Stack<>();
+        
+        for(int i = 0; i<st.length(); i++){
+            char ch = st.charAt(i);
+            if(ch == '(' || ch == '[' || ch == '{'){
+                s.push(ch);
             }
-            if (head == 0 || c != right[stack[--head]]) {
-                return false;
-            }
+            else{
+                if(!s.empty()){
+                    char top = s.peek();
+                    if((ch == ')' && top == '(') || (ch == ']' && top == '[') || (ch == '}' && top == '{')){
+                        s.pop();
+                    }
+                    else
+                        return false;
+                }
+                else
+                    return false;
+            } 
         }
-        return head == 0;
+        if(s.empty())
+            return true;
+        else
+            return false;
     }
 }
