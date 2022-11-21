@@ -144,10 +144,12 @@ class Solution
             Node frontNode = temp.temp;
             int hd = temp.hd;
             
-            if(!topNode.containsKey(hd))
+            //if node with hd is not present then add other wise replace so that
+            // we can get the node which is visible from the bottom
+            // if(!topNode.containsKey(hd))
                 topNode.put(hd,frontNode.data);
-            else
-                topNode.replace(hd,frontNode.data);
+            // else
+            //     topNode.replace(hd,frontNode.data);
             
             if(frontNode.left != null)
                 q.add(new Pair(frontNode.left, hd-1));
