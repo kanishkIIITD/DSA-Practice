@@ -119,9 +119,9 @@ class GfG {
 class Pair{
     int hd;
     Node temp;
-    Pair(Node temp,int hd){
-        this.temp=temp;
-        this.hd=hd;
+    Pair(Node temp, int hd){
+        this.hd = hd;
+        this.temp = temp;
     }
 }
 class Solution
@@ -129,32 +129,29 @@ class Solution
     //Function to return a list containing the bottom view of the given tree.
     public ArrayList <Integer> bottomView(Node root)
     {
-        ArrayList<Integer> ans = new ArrayList<>();
+        ArrayList <Integer> ans = new ArrayList <Integer>();
         if(root == null)
             return ans;
         
-        Map<Integer, Integer> topNode = new TreeMap<>();
+        Map<Integer, Integer> mapping = new TreeMap<>();
         Queue<Pair> q = new LinkedList<>();
-        
         q.add(new Pair(root, 0));
         
         while(!q.isEmpty()){
-            Pair temp = q.poll();
+            Pair front = q.poll();
+            int hd = front.hd;
+            Node frontNode = front.temp;
             
-            Node frontNode = temp.temp;
-            int hd = temp.hd;
-
-            topNode.put(hd,frontNode.data);
+            mapping.put(hd, frontNode.data);
             
             if(frontNode.left != null)
                 q.add(new Pair(frontNode.left, hd-1));
             if(frontNode.right != null)
                 q.add(new Pair(frontNode.right, hd+1));
         }
-        for(int i:topNode.keySet()){
-            ans.add(topNode.get(i));
-        }
-
+        for(int i : mapping.keySet())
+            ans.add(mapping.get(i));
+        
         return ans;
     }
 }
