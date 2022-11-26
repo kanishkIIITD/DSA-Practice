@@ -14,45 +14,47 @@
  * }
  */
 class Solution {
-    int min=0, max=0;
-    Map<Integer, List<Integer>> map = new HashMap();
-    public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<List<Integer>> res = new ArrayList();
-        if(root==null) return res;
-        Queue<TreeNode> qt = new LinkedList();
-        Queue<Integer> qi = new LinkedList();
-        qt.add(root);
-        qi.add(0);//not root.val
-        while(!qt.isEmpty()){
-            int size = qt.size();
-            Map<Integer,List<Integer>> tmp = new HashMap();
-            for(int i=0;i<size;i++){
-                TreeNode cur = qt.poll();
-                int idx = qi.poll();
-                if(!tmp.containsKey(idx)) tmp.put(idx, new ArrayList<Integer>());
-                tmp.get(idx).add(cur.val);
-                if(idx<min)  min = idx;
-                if(idx>max)  max = idx;
-                if(cur.left!=null){
-                    qt.add(cur.left);
-                    qi.add(idx-1);
-                }
-                if(cur.right!=null){
-                    qt.add(cur.right);
-                    qi.add(idx+1);
-                } 
-            }
-            for(int key : tmp.keySet()){
-                if(!map.containsKey(key)) map.put(key, new ArrayList<Integer>());
-                List<Integer> list = tmp.get(key);
-                Collections.sort(list);
-                map.get(key).addAll(list);
-            }
-            
+    class pair{
+        TreeNode node;
+        int x;
+        int y;
+        public pair(int x, int y, TreeNode n){
+            this.x = x;
+            this.y = y;
+            this.node = n;
         }
-        for (int i=min; i<=max; i++){
-            List<Integer> list = map.get(i);
-            res.add(list);
+    }
+
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if(root == null)return res; // corner case
+		
+        Map<Integer, List<pair>> map = new HashMap<>();
+        Queue<pair> queue = new LinkedList<>(); //BFS
+        queue.add(new pair(0,0,root));
+        int left = 0; // leftmost x 
+        int right = 0; // rightmost x
+        
+        while(!queue.isEmpty()){
+            pair temp = queue.poll();
+            left = Math.min(left, temp.x);
+            right = Math.max(right,temp.x);
+            
+            if(!map.containsKey(temp.x)){
+                map.put(temp.x, new ArrayList<>());
+            }
+            map.get(temp.x).add(new pair(temp.x, temp.y, temp.node));
+            if(temp.node.left != null)queue.add(new pair(temp.x-1, temp.y+1, temp.node.left));
+            if(temp.node.right != null)queue.add(new pair(temp.x+1, temp.y+1, temp.node.right));
+        }
+        
+        for(int i=left; i<=right; i++){
+            Collections.sort(map.get(i), (a,b)-> a.y == b.y ? a.node.val - b.node.val : a.y - b.y); // sort the node that have same y value
+            List<Integer> templist = new ArrayList<>();
+            for(int j=0; j< map.get(i).size(); j++){
+                templist.add(map.get(i).get(j).node.val);
+            }
+            res.add(templist);
         }
         return res;
     }
