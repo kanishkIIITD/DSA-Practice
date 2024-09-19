@@ -36,6 +36,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
@@ -55,6 +56,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +86,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
