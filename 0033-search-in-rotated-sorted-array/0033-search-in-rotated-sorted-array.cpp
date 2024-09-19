@@ -11,12 +11,10 @@ public:
                 return m;
             if(m-1 >= s &&nums[m-1] > nums[m])
                 return m-1;
-            if(nums[s] < nums[m]){
+            if(nums[m] < nums[s])
+                e = m-1;
+            else 
                 s = m+1;
-            }
-            else{
-                e = m;
-            }
         }
         return -1;
     }
