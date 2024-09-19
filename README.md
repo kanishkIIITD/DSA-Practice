@@ -14,6 +14,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -65,6 +66,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -82,4 +84,16 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
