@@ -9,7 +9,11 @@ public:
             else 
                 high--;
         }
-        return {arr.begin()+low, arr.begin()+high+1};
+        // return {arr.begin()+low, arr.begin()+high+1};
+        vector<int> ans;
+        for(int i = low; i <= high; i++)
+            ans.push_back(arr[i]);
+        return ans;
     }
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         return twoPointerMethod(arr, k, x);
