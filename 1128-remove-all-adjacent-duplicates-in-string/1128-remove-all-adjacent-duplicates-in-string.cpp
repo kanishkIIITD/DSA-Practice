@@ -7,16 +7,10 @@ public:
         string ans = "";
         int i = 0;
         while(i < s.length()){             
-            if(ans.length() > 0){
-                if(s[i] == ans[ans.length()-1]){
-                    ans.pop_back();
-                }
-                else{
-                    ans.push_back(s[i]);
-                }
-            }
-            else{
+            if (ans.empty() || s[i] != ans.back()) {
                 ans.push_back(s[i]);
+            } else {
+                ans.pop_back();
             }
             i++;
         }
