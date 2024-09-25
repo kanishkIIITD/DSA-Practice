@@ -23,6 +23,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -111,6 +112,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,5 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
