@@ -23,6 +23,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -95,6 +97,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +153,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
