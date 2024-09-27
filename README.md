@@ -7,6 +7,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -19,6 +20,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
