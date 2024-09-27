@@ -12,7 +12,7 @@ public:
                 j++;
                 i++;
             }
-            i = i-j;
+            i = i-j; // This line helps to go back so that we don't miss any substrs
             if(j == needle.length())
                 return i;
             i++;
