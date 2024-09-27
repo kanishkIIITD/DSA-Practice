@@ -1,11 +1,16 @@
 class Solution {
 public:
+    std::array<int, 256> hash(string s){
+        std::array<int, 256> hash = {0};
+        for(int i = 0; i < s.size(); i++)
+            hash[s[i]]++;
+        return hash;
+    }
+
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        map<string, vector<string>> m;
+        map<std::array<int, 256>, vector<string>> m;
         for(auto str: strs){
-            string temp = str;
-            sort(temp.begin(), temp.end());
-            m[temp].push_back(str);
+            m[hash(str)].push_back(str);
         }
 
         vector<vector<string>> ans;
