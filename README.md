@@ -7,6 +7,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -20,6 +21,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
@@ -56,6 +58,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
@@ -101,6 +104,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
