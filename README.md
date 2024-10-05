@@ -14,6 +14,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
@@ -104,6 +106,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -197,6 +200,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
