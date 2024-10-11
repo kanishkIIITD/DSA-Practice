@@ -20,6 +20,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -98,6 +99,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1497-design-a-stack-with-increment-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
@@ -220,6 +222,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Depth-First Search
 |  |
 | ------- |
