@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string solve(string num1, int p1, string num2, int p2, int carry = 0){
+    string solve(string& num1, int p1, string&num2, int p2, int carry = 0){
         // base case
         if(p1 < 0 && p2 < 0){
             if(carry != 0){
