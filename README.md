@@ -40,6 +40,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
@@ -174,6 +175,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0670-maximum-swap) |
@@ -222,6 +224,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
