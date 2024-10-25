@@ -269,6 +269,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -342,6 +343,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -352,6 +354,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
