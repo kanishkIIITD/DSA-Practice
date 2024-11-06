@@ -82,6 +82,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
