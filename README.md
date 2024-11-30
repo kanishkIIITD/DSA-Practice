@@ -361,6 +361,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -467,6 +468,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3189-find-champion-ii) |
@@ -476,4 +478,8 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
