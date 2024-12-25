@@ -430,6 +430,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -522,6 +523,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -533,6 +535,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -546,6 +549,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
