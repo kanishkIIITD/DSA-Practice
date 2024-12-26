@@ -129,6 +129,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -356,6 +357,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -518,6 +520,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
