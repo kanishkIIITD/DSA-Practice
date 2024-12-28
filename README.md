@@ -135,6 +135,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -360,6 +361,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
