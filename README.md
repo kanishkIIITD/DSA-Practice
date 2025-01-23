@@ -181,6 +181,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -350,6 +351,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -388,6 +390,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
@@ -507,6 +510,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -616,6 +620,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -670,4 +675,8 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
