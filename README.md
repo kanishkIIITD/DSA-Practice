@@ -20,6 +20,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -78,6 +79,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
@@ -377,6 +379,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -646,6 +649,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
