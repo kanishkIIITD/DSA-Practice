@@ -398,6 +398,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -678,6 +679,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
 |  |
