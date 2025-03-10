@@ -55,6 +55,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -559,6 +561,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
