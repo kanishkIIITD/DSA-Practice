@@ -16,6 +16,7 @@ public:
         // }
         // return ans;
 
+        // Optimized
         int n = height.size();
         vector<int> prefixMax(n,0);
         vector<int> suffixMax(n,0);
