@@ -17,15 +17,25 @@ public:
         // return ans;
 
         // Better
-        int n = nums.size();
+        // int n = nums.size();
+        // vector<int> ans;
+        // unordered_map<int, int> mp; //{element, count}
+        // for(int i = 0; i < n; i++){
+        //     mp[nums[i]]++;
+        // }
+        // for(auto it: mp){
+        //     if(it.second == 2)
+        //         ans.push_back(it.first);
+        // }
+        // return ans;
+
+        // Best
         vector<int> ans;
-        unordered_map<int, int> mp; //{element, count}
+        int n = nums.size();
         for(int i = 0; i < n; i++){
-            mp[nums[i]]++;
-        }
-        for(auto it: mp){
-            if(it.second == 2)
-                ans.push_back(it.first);
+            if(nums[abs(nums[i]) - 1] < 0)
+                ans.push_back(abs(nums[i]));
+            nums[abs(nums[i]) - 1] *= -1;
         }
         return ans;
     }
