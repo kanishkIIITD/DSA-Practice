@@ -6,8 +6,14 @@ public:
             maxi = max(maxi, bloomday[i]);
         return maxi;
     }
+    int minElement(vector<int>&bloomday){
+        int mini = INT_MIN;
+        for(int i = 0; i < bloomday.size(); i++)
+            mini = min(mini, bloomday[i]);
+        return mini;
+    }
 
-    bool isBouquetsMakable(vector<int>&bloomday, int mid, int m, int k){
+    bool isBouquetsMakable(vector<int>&bloomday, long long mid, int m, int k){
         int finalCounter = 0; // No. of possible bouquets
         int counter = 0; // To check number of adjacent flowers
         for(int i = 0; i < bloomday.size(); i++){
@@ -26,10 +32,10 @@ public:
         // edge case
         if((long long)m*k > bloomDay.size())
             return -1;
-        int low = 1;
-        int high = maxElement(bloomDay);
+        long long low = minElement(bloomDay);
+        long long high = maxElement(bloomDay);
         while(low <= high){
-            int mid = low + (high - low)/2;
+            long long mid = low + (high - low)/2;
             if(isBouquetsMakable(bloomDay, mid, m, k))
                 high = mid-1;
             else
