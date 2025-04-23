@@ -50,7 +50,7 @@ public:
             int m = s + (e-s)/2;
             if(nums[m] != nums[m-1] && nums[m] != nums[m+1])
                 return nums[m];
-            if(m+1 < n && nums[m] == nums[m+1]){
+            if(nums[m] == nums[m+1]){
                 if(m % 2 == 0)
                     s = m+2;
                 else
