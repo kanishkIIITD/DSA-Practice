@@ -1,12 +1,5 @@
 class Solution {
 public:
-    int getMin(vector<int>&nums, int s, int e){
-        int mini = INT_MAX;
-        for(int i = s; i <= e; i++){
-            mini = min(mini, nums[i]);
-        }
-        return mini;
-    }
     int findMin(vector<int>& nums) {
         int ans = INT_MAX;
         int s = 0;
@@ -14,11 +7,11 @@ public:
         while(s <= e){
             int m = s + (e-s)/2;
             if(nums[s] <= nums[m]){
-                ans = min(ans, getMin(nums, s, m));
+                ans = min(ans, nums[s]);
                 s = m+1;
             }
             else{
-                ans = min(ans, getMin(nums, m, e));
+                ans = min(ans, nums[m]);
                 e = m-1;
             }
         }
