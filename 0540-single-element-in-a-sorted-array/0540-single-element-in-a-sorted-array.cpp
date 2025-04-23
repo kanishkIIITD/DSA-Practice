@@ -57,14 +57,10 @@ public:
                     e = m-1;
             }
             else{
-                if(m > 0){
-                    if(m % 2 == 0)
+                if(m % 2 == 0)
                     e = m-2;
                 else
                     s = m+1;
-                }
-                else
-                    break;
             }
         }
         return -1;
