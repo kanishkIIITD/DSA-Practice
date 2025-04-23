@@ -22,8 +22,6 @@ public:
         }
         if(sum <= mid)
             count++;
-        // if(sum == weights[n-1])
-        //     count++;
         if(count <= days)
             return true;
         else
