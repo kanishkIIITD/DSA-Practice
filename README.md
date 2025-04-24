@@ -201,6 +201,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -409,6 +410,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -994,6 +996,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
