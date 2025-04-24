@@ -313,6 +313,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2478-longest-nice-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
@@ -446,6 +447,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -598,6 +600,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
