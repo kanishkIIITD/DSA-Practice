@@ -335,6 +335,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
+| [2737-row-with-maximum-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -594,6 +595,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2737-row-with-maximum-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
