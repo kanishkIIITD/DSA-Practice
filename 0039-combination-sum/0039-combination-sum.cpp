@@ -6,13 +6,14 @@ public:
                 ans.push_back(temp);
             return;
         }
-        
-        if(candidates[i] <= target){
-            // Pick
-            temp.push_back(candidates[i]);
-            getCombinations(candidates, target - candidates[i], temp, ans, i);
-            temp.pop_back();
-        }
+        if(target < 0)
+            return;
+
+        // Pick
+        temp.push_back(candidates[i]);
+        getCombinations(candidates, target - candidates[i], temp, ans, i);
+        temp.pop_back();
+
         // Not Pick
         getCombinations(candidates, target, temp, ans, i+1);
     }
