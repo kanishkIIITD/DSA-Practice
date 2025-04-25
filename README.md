@@ -83,6 +83,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
@@ -644,6 +645,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -883,6 +885,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0046-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
