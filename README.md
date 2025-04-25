@@ -8,6 +8,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -208,6 +209,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0015-3sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
@@ -591,6 +593,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -874,6 +877,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0046-permutations) |
