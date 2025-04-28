@@ -825,6 +825,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
@@ -845,6 +846,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -943,6 +945,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1020,6 +1023,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1136,10 +1140,15 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
