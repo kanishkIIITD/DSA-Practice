@@ -8,25 +8,18 @@ public:
             int i = q.front().first;
             int j = q.front().second;
             q.pop();
-            // LEFT
-            if(j-1 >= 0 && grid[i][j-1] == '1' && !vis[i][j-1]){
-                vis[i][j-1] = 1;
-                q.push({i, j-1});
-            }
-            // RIGHT
-            if(j+1 < grid[0].size() && grid[i][j+1] == '1' && !vis[i][j+1]){
-                vis[i][j+1] = 1;
-                q.push({i, j+1});
-            }
-            // UP
-            if(i-1 >= 0 && grid[i-1][j] == '1' && !vis[i-1][j]){
-                vis[i-1][j] = 1;
-                q.push({i-1, j});
-            }
-            // DOWN
-            if(i+1 < grid.size() && grid[i+1][j] == '1' && !vis[i+1][j]){
-                vis[i+1][j] = 1;
-                q.push({i+1, j});
+            
+            vector<int> deltaRow = {-1, 0, 1, 0};
+            vector<int> deltaCol = {0, 1, 0, -1};
+            for(int k = 0; k < 4; k++){
+                int nRow = i + deltaRow[k];
+                int nCol = j + deltaCol[k];
+                if(0 <= nRow && nRow < grid.size() 
+                && 0 <= nCol && nCol < grid[0].size() 
+                && grid[nRow][nCol] == '1' && !vis[nRow][nCol]){
+                    vis[nRow][nCol] = 1;
+                    q.push({nRow, nCol});
+                }
             }
         }
     }
