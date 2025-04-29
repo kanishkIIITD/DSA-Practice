@@ -811,6 +811,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1018,6 +1019,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1095,6 +1097,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
@@ -1138,6 +1141,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
+| [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
