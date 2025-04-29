@@ -296,6 +296,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -471,6 +472,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
@@ -630,6 +632,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
@@ -768,6 +771,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -826,6 +830,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1036,6 +1041,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1153,6 +1159,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
