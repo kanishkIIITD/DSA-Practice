@@ -797,6 +797,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1010,6 +1011,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
@@ -1095,6 +1097,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
@@ -1153,6 +1156,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
