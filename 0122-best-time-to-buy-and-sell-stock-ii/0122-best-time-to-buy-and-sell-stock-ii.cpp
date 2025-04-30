@@ -16,16 +16,19 @@ public:
         // vector<vector<int>> dp(n+1, vector<int>(2, -1));
         // return solve(0, 1, prices, dp);
 
-        vector<vector<int>> dp(n+1, vector<int>(2, 0));
+        // vector<vector<int>> dp(n+1, vector<int>(2, 0));
+        vector<int> dp(2, 0);
+        vector<int> next(2, 0);
         for(int index = n-1; index >= 0; index--){
             for(int buy = 0; buy < 2 ; buy++){
                 if(buy){
-                    dp[index][buy] = max((-prices[index] + dp[index+1][0]), dp[index+1][1]);
+                    dp[buy] = max((-prices[index] + next[0]), next[1]);
                 }
                 else
-                    dp[index][buy] = max((prices[index] + dp[index+1][1]), dp[index+1][0]);
+                    dp[buy] = max((prices[index] + next[1]), next[0]);
             }
+            next = dp;
         }
-        return dp[0][1];
+        return next[1];
     }
 };
