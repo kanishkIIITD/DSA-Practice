@@ -28,10 +28,35 @@ public:
         return dp[i][j] = paths;
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        int count = 0;
-        count = solve(0, 0, vis, dp);
-        return count;
+        // vector<vector<int>> vis(m, vector<int>(n, 0));
+        vector<vector<int>> dp(m, vector<int>(n, 0));
+        // int count = 0;
+        // count = solve(0, 0, vis, dp);
+        // return count;
+
+        dp[m-1][n-1] = 1;
+        // vis[m-1][n-1] = 1;
+        for(int i = m-1; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                if(i == m-1 && j == n-1)
+                    continue;
+                // vis[i][j] = 1;
+
+                int paths = 0;
+
+                vector<int> dx = {0, 1};
+                vector<int> dy = {1, 0};
+                for(int k = 0; k < 2; k++){
+                    int nr = i + dx[k];
+                    int nc = j + dy[k];
+                    if(0 <= nr && nr < m && 0 <= nc && nc < n){
+                        paths += dp[nr][nc];
+                    }
+                }
+                // vis[i][j] = 0;
+                dp[i][j] = paths;
+            }
+        }
+        return dp[0][0];
     }
 };
