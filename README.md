@@ -7,6 +7,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
@@ -744,6 +746,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
