@@ -250,6 +250,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -698,6 +699,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0198-house-robber](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
