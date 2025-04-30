@@ -19,19 +19,22 @@ public:
         // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(k+1, -1)));
         // return solve(0, 1, k, prices, dp);
 
-        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(kmax+1, 0)));
+        // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(kmax+1, 0)));
+        vector<vector<int>> dp(2, vector<int>(kmax+1, 0));
+        vector<vector<int>> next(2, vector<int>(kmax+1, 0));
         for(int index = n-1; index >= 0; index--){
             for(int buy = 0; buy < 2; buy++){
                 for(int k = 1; k < kmax+1; k++){
                     if(buy){
-                        dp[index][buy][k] = max(-prices[index] + dp[index+1][0][k], dp[index+1][1][k]);
+                        dp[buy][k] = max(-prices[index] + next[0][k], next[1][k]);
                     }   
                     else{
-                        dp[index][buy][k] = max(prices[index] + dp[index+1][1][k-1], dp[index+1][0][k]);
+                        dp[buy][k] = max(prices[index] + next[1][k-1], next[0][k]);
                     }
                 }
             }
+            next = dp;
         }
-        return dp[0][1][kmax];
+        return next[1][kmax];
     }
 };
