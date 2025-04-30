@@ -12,6 +12,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -91,6 +92,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
@@ -238,6 +240,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
@@ -697,6 +700,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0213-house-robber-ii) |
@@ -742,6 +746,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -878,6 +883,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
