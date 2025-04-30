@@ -15,19 +15,27 @@ public:
             return 0;
         if(n == 1)
             return nums[0];
-        vector<int> dp1(n+2, 0);
-        vector<int> dp2(n+2, 0);
+        // vector<int> dp1(n+2, 0);
+        // vector<int> dp2(n+2, 0);
         // return max(solve(0, n-2, nums, dp1), solve(1, n-1, nums, dp2));
+        int a = 0;
+        int b = 0;
         for(int i = n-2; i >= 0; i--){
-            int opt1 = dp1[i+1];
-            int opt2 = nums[i] + dp1[i+2];
-            dp1[i] = max(opt1, opt2);
+            int opt1 = b;
+            int opt2 = nums[i] + a;
+            int c = max(opt1, opt2);
+            a = b;
+            b = c;
         }
+        int x = 0;
+        int y = 0;
         for(int i = n-1; i >= 1; i--){
-            int opt1 = dp2[i+1];
-            int opt2 = nums[i] + dp2[i+2];
-            dp2[i] = max(opt1, opt2);
+            int opt1 = y;
+            int opt2 = nums[i] + x;
+            int z = max(opt1, opt2);
+            x = y;
+            y = z;
         }
-        return max(dp1[0], dp2[1]);
+        return max(b, y);
     }
 };
