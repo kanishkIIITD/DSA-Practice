@@ -14,6 +14,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -432,6 +433,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -955,6 +957,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
