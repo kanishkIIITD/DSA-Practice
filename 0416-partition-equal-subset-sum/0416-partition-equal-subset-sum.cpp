@@ -21,19 +21,21 @@ public:
         // vector<vector<int>> dp(n, vector<int>(sum/2+1, -1));
         // return solve(n-1, sum/2, nums, dp);
 
-        vector<vector<int>> dp(n, vector<int>(sum/2+1, 0));
-        for(int i = 0; i < n; i++){
-            dp[i][0] = true;
-        }
+        // vector<vector<int>> dp(n, vector<int>(sum/2+1, 0));
+        vector<int> dp(sum/2+1, 0);
+        vector<int> prev(sum/2+1, 0);
+        dp[0] = 1;
+        prev[0] = 1;
         if(nums[0] <= sum/2)
-            dp[0][nums[0]] = true;
+            dp[nums[0]] = true;
         for(int index = 1; index < n; index++){
             for(int target = 1; target < sum/2+1; target++){
-                bool notTake = dp[index-1][target];
-                bool take = target >= nums[index] ? dp[index-1][target - nums[index]] : false;
-                dp[index][target] = take || notTake;
+                bool notTake = prev[target];
+                bool take = target >= nums[index] ? prev[target - nums[index]] : false;
+                dp[target] = take || notTake;
             }
+            prev = dp;
         }
-        return dp[n-1][sum/2];
+        return prev[sum/2];
     }
 };
