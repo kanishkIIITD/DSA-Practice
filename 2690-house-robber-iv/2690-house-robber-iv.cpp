@@ -1,15 +1,15 @@
 class Solution {
 public:
-    bool canRob(vector<int>& nums, int mid, int k) {
-        int count = 0, n = nums.size();
-        for (int i = 0; i < n; i++) {
-            if (nums[i] <= mid) {
-                count++;
-                i++;
-            }
-        }
-        return count >= k;
-    }
+    // bool canRob(vector<int>& nums, int mid, int k) {
+    //     int count = 0, n = nums.size();
+    //     for (int i = 0; i < n; i++) {
+    //         if (nums[i] <= mid) {
+    //             count++;
+    //             i++;
+    //         }
+    //     }
+    //     return count >= k;
+    // }
 
     bool canRob(int mid, int k, vector<int>&nums){
         int count = 0;
