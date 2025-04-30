@@ -22,22 +22,25 @@ public:
         // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(2, -1)));
         // return solve(0, 1, 0, prices, dp); //{index, buy, cooldown}
 
-        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(2, 0)));
+        // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(2, 0)));
+        vector<vector<int>> dp(2, vector<int>(2, 0));
+        vector<vector<int>> next(2, vector<int>(2, 0));
         for(int index = n-1; index >= 0; index--){
             for(int buy = 0; buy < 2; buy++){
                 for(int cooldown = 1; cooldown >= 0; cooldown--){
                     if(buy){
                         if(cooldown){
-                            dp[index][buy][cooldown] = dp[index+1][1][0];
+                            dp[buy][cooldown] = next[1][0];
                         }
                         else
-                            dp[index][buy][cooldown] = max(-prices[index] + dp[index+1][0][0], dp[index+1][1][0]);
+                            dp[buy][cooldown] = max(-prices[index] + next[0][0], next[1][0]);
                     }
                     else
-                        dp[index][buy][cooldown] = max(prices[index] + dp[index+1][1][1], dp[index+1][0][cooldown]);
+                        dp[buy][cooldown] = max(prices[index] + next[1][1], next[0][cooldown]);
                 }
             }
+            next = dp;
         }
-        return dp[0][1][0];
+        return next[1][0];
     }
 };
