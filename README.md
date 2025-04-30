@@ -229,6 +229,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0046-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -694,6 +695,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -1229,6 +1231,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
