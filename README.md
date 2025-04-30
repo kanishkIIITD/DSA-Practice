@@ -547,6 +547,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
@@ -679,6 +680,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1210,6 +1212,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Merge Sort
