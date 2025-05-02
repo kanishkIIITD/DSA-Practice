@@ -113,6 +113,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
@@ -448,6 +449,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -735,6 +737,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
