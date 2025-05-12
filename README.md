@@ -31,6 +31,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
+| [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -294,6 +295,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0788-minimize-max-distance-to-gas-station) |
+| [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1155,6 +1157,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
