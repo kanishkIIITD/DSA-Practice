@@ -1,55 +1,44 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        int totalElements = m * n;
-        vector<int> ans;
+        int n = matrix[0].size() - 1;
+        int m = matrix.size() - 1;
+        int top = 0;
+        int right = n;
+        int left = 0;
+        int bottom = m;
 
-        int startRow = 0;
-        int startCol = n - 1;
-        int endRow = m - 1;
-        int endCol = 0;
-        int count = 0;
+        vector<int> res;
 
-        while (count < totalElements) {
+        while(top <= bottom && left <= right){
+            // Top row
+            for(int i = left; i <= right; i++){
+                res.push_back(matrix[top][i]);
+            }
+            top++;
 
-            for (int j = endCol; j <= startCol; j++) {
-                if (matrix[startRow][j] <= 100) {
-                    ans.push_back(matrix[startRow][j]);
-                    count++;
-                    matrix[startRow][j] = 101;
+            // Right column
+            for(int i = top; i <= bottom; i++){
+                res.push_back(matrix[i][right]);
+            }
+            right--;
+
+            if(top <= bottom){
+                // Bottom row
+                for(int i = right; i >= left; i--){
+                    res.push_back(matrix[bottom][i]);
                 }
+                bottom--;
             }
 
-            for (int i = startRow; i <= endRow; i++) {
-                if (matrix[i][startCol] <= 100) {
-                    ans.push_back(matrix[i][startCol]);
-                    count++;
-                    matrix[i][startCol] = 101;
+            if(left <= right){
+                // Left column
+                for(int i = bottom; i >= top; i--){
+                    res.push_back(matrix[i][left]);
                 }
+                left++;
             }
-
-            for (int j = startCol; j >= endCol; j--) {
-                if (matrix[endRow][j] <= 100) {
-                    ans.push_back(matrix[endRow][j]);
-                    count++;
-                    matrix[endRow][j] = 101;
-                }
-            }
-
-            for (int i = endRow; i >= startRow; i--) {
-                if (matrix[i][endCol] <= 100) {
-                    ans.push_back(matrix[i][endCol]);
-                    count++;
-                    matrix[i][endCol] = 101;
-                }
-            }
-            startRow++;
-            startCol--;
-            endRow--;
-            endCol++;
         }
-        return ans;
+        return res;
     }
 };
