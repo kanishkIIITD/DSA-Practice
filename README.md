@@ -97,6 +97,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
@@ -242,6 +243,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
@@ -681,6 +683,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -890,6 +893,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
@@ -1061,6 +1065,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
