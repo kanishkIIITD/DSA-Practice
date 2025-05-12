@@ -228,6 +228,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -447,6 +448,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -646,6 +648,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
