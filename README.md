@@ -937,6 +937,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1164,6 +1165,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1242,6 +1244,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
