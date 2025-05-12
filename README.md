@@ -587,6 +587,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
@@ -789,6 +790,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
