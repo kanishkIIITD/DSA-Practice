@@ -107,6 +107,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0243-shortest-word-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -268,6 +269,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0243-shortest-word-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0243-shortest-word-distance) |
 | [0283-move-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
