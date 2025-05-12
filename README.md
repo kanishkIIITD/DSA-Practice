@@ -321,6 +321,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
@@ -704,6 +705,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
@@ -1168,6 +1170,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
