@@ -86,6 +86,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -177,6 +178,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
@@ -634,6 +636,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
@@ -657,6 +660,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -806,6 +810,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
