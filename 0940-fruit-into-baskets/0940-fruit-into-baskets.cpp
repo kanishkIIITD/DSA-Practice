@@ -7,12 +7,10 @@ public:
         for(int r = 0; r < fruits.size(); r++){
             mp[fruits[r]]++;
             if(mp.size() > 2){
-                while(mp.size() > 2){
-                    mp[fruits[l]]--;
-                    if(mp[fruits[l]] == 0)
-                        mp.erase(fruits[l]);
-                    l++;
-                }
+                mp[fruits[l]]--;
+                if(mp[fruits[l]] == 0)
+                    mp.erase(fruits[l]);
+                l++;
             }
             maxLen = max(maxLen, r-l+1);
         }
