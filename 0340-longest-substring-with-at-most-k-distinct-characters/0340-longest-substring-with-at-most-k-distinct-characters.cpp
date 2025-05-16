@@ -14,7 +14,7 @@ public:
         int l = 0;
         for(int r = 0; r < s.size(); r++){
             hash[s[r]]++;
-            while(getNoOfChar(hash) > k){
+            if(getNoOfChar(hash) > k){
                 hash[s[l]]--;
                 l++;
             }
