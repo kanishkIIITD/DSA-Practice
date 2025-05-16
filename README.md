@@ -19,6 +19,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
@@ -113,6 +114,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0243-shortest-word-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
@@ -869,6 +871,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
