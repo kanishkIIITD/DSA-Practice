@@ -1,20 +1,15 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
+        int hash[3] = {-1, -1, -1};
         int count = 0;
-        int left = 0;
-        unordered_map<char, int> char_count = {{'a', 0}, {'b', 0}, {'c', 0}};
-        
-        for (int right = 0; right < s.length(); ++right) {
-            char_count[s[right]]++;
-            
-            while (char_count['a'] > 0 && char_count['b'] > 0 && char_count['c'] > 0) {
-                count += s.length() - right;
-                char_count[s[left]]--;
-                left++;
+        for(int i = 0; i < s.size(); i++){
+            hash[s[i] - 'a'] = i;
+            if(hash[0] != -1 && hash[1] != -1 && hash[2] != -1){
+                int minIndex = min(hash[0], min(hash[1], hash[2]));
+                count += minIndex + 1;
             }
         }
-        
         return count;
     }
 };
