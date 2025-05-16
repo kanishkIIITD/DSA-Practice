@@ -17,7 +17,7 @@ public:
             // hash[s[r]]++;
             mp[s[r]]++;
             // if(getNoOfChar(hash) > k)
-            while(mp.size() > k) {
+            if(mp.size() > k) {
                 mp[s[l]]--;
                 if(mp[s[l]] == 0)
                     mp.erase(s[l]);
