@@ -8,7 +8,7 @@ public:
             hash[s[r] - 'A']++;
             int maxEle = *max_element(hash, hash+26);
             int len = r - l + 1;
-            while(len - maxEle > k){
+            if(len - maxEle > k){
                 hash[s[l] - 'A']--;
                 l++;
                 maxEle = *max_element(hash, hash+26);
