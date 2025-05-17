@@ -22,6 +22,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -117,6 +118,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -872,6 +874,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
