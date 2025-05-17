@@ -40,6 +40,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -218,6 +219,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
@@ -321,6 +323,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
@@ -881,6 +884,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
