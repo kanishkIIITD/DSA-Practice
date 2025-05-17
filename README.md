@@ -11,6 +11,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -107,6 +108,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
@@ -883,6 +885,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
