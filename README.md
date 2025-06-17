@@ -705,6 +705,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Counting
 |  |
 | ------- |
@@ -1482,6 +1483,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Merge Sort
 |  |
 | ------- |
