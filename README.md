@@ -242,6 +242,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -729,6 +730,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -952,6 +954,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
