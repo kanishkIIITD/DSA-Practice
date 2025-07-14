@@ -723,6 +723,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1228,6 +1229,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
 |  |
 | ------- |
