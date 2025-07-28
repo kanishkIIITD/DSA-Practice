@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int n;
-    unsigned max_OR;
-    int f(int i, unsigned acc_or, vector<int>& nums){
-        if (i<0) return (acc_or==max_OR)?1:0;
-        int skip=f(i-1, acc_or, nums);
-        int take=f(i-1, acc_or| nums[i], nums);
-        return skip+take;
-    }
     int countMaxOrSubsets(vector<int>& nums) {
-        n=nums.size();
-        max_OR=accumulate(nums.begin(), nums.end(), 0, bit_or<>());
-        return f(n-1, 0, nums);
+        int maxOR = 0;
+        for (int num : nums) {
+            maxOR |= num;
+        }
+        return backtrack(nums, maxOR, 0, 0);
+    }
+
+private:
+    int backtrack(vector<int>& nums, int maxOR, int index, int currentOR) {
+        if (index == nums.size()) {
+            return currentOR == maxOR ? 1 : 0;
+        }
+
+        if (currentOR == maxOR) {
+            return 1 << (nums.size() - index);
+        }
+
+        return backtrack(nums, maxOR, index + 1, currentOR | nums[index]) +
+               backtrack(nums, maxOR, index + 1, currentOR);
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
