@@ -231,6 +231,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
@@ -739,6 +740,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -1003,6 +1005,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
