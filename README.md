@@ -745,6 +745,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -1013,6 +1014,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
