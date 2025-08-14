@@ -188,6 +188,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
