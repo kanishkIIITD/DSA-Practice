@@ -203,6 +203,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -740,6 +741,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
