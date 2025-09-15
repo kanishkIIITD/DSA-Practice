@@ -45,6 +45,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -155,6 +156,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -388,6 +390,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
