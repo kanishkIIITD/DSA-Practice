@@ -116,6 +116,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -588,6 +590,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -969,6 +972,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -1312,6 +1316,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
