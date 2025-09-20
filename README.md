@@ -117,6 +117,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -591,6 +592,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -702,6 +704,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -1317,6 +1320,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1337,6 +1341,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -1360,6 +1365,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
