@@ -391,6 +391,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0788-minimize-max-distance-to-gas-station) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
@@ -680,6 +681,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0788-minimize-max-distance-to-gas-station) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
@@ -972,6 +974,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
@@ -1202,6 +1205,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
@@ -1267,6 +1271,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
@@ -1543,6 +1548,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
@@ -1691,6 +1697,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
+| [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
