@@ -311,6 +311,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
 | ------- |
@@ -609,6 +610,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 ## Two Pointers
@@ -1041,6 +1043,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
