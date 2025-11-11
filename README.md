@@ -164,6 +164,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
@@ -398,6 +399,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
@@ -1152,6 +1154,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0542-01-matrix) |
