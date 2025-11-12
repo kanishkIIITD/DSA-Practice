@@ -583,6 +583,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2737-row-with-maximum-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2737-row-with-maximum-ones) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -917,6 +918,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1557,6 +1559,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
