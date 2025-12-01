@@ -525,6 +525,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -779,6 +780,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -844,6 +846,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1042,6 +1045,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
