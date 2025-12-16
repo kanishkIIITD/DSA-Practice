@@ -665,6 +665,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3583-count-special-triplets) |
@@ -1275,6 +1276,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1487,6 +1489,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3863-power-grid-maintenance) |
@@ -1727,6 +1730,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
