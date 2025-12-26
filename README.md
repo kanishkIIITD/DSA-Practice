@@ -238,6 +238,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2580-circular-sentence) |
@@ -340,6 +341,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2625-increment-submatrices-by-one) |
