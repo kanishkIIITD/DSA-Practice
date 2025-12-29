@@ -35,6 +35,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
+| [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
@@ -176,6 +177,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0812-rotate-string) |
@@ -289,6 +291,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1694,6 +1697,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
