@@ -410,6 +410,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
@@ -737,6 +738,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -944,6 +946,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
