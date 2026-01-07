@@ -23,6 +23,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -291,6 +292,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -419,6 +421,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0243-shortest-word-distance) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -795,6 +798,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -869,6 +873,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -954,6 +959,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
