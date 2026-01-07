@@ -434,6 +434,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
