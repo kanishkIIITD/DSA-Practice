@@ -41,6 +41,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1518,6 +1519,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1770,6 +1772,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1824,6 +1827,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1889,6 +1893,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
