@@ -397,6 +397,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1166,6 +1167,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -1257,6 +1259,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1571,6 +1574,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -1707,6 +1711,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
