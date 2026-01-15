@@ -652,6 +652,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -933,6 +934,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
