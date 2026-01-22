@@ -125,6 +125,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3583-count-special-triplets) |
@@ -706,6 +707,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3483-alternating-groups-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1267,6 +1269,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1500,6 +1503,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1663,6 +1667,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -1682,6 +1687,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -1697,6 +1703,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
