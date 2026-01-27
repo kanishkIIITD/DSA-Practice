@@ -1523,6 +1523,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -2012,6 +2013,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -2149,4 +2151,8 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
