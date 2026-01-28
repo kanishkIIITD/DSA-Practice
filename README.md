@@ -739,6 +739,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1248,6 +1249,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Simulation
@@ -1376,6 +1378,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
 |  |
 | ------- |
