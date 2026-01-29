@@ -387,6 +387,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0015-3sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
@@ -769,6 +770,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0088-merge-sorted-array) |
