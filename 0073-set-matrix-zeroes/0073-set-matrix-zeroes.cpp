@@ -1,26 +1,33 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        bool zeroinFirstCol = false;
-        for (int row = 0; row < matrix.size(); row++) {
-            if (matrix[row][0] == 0) zeroinFirstCol = true;
-            for (int col = 1; col < matrix[0].size(); col++) {
-                if (matrix[row][col] == 0) {
-                    matrix[row][0] = 0;
-                    matrix[0][col] = 0;
+        int col0 = 1;
+        int n = matrix.size();
+        int m = matrix[0].size();
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(matrix[i][j] == 0){
+                    matrix[i][0] = 0;
+                    j == 0 ? col0 = 0 : matrix[0][j] = 0;
                 }
             }
         }
 
-        for (int row = matrix.size() - 1; row >= 0; row--) {
-            for (int col = matrix[0].size() - 1; col >= 1; col--) {
-                if (matrix[row][0] == 0 || matrix[0][col] == 0) {
-                    matrix[row][col] = 0;
+        for(int i = n-1; i > 0; i--){
+            for(int j = m-1; j > 0; j--){
+                if(!matrix[i][0] || !matrix[0][j]){
+                    matrix[i][j] = 0;
                 }
             }
-            if (zeroinFirstCol) {
-                matrix[row][0] = 0;
-            }
+        }
+        for(int j = m-1; j > 0; j--){
+            if(!matrix[0][0])
+                matrix[0][j] = 0;
+        }
+        for(int i = n-1; i >= 0; i--){
+            if(!col0)
+                matrix[i][0] = 0;
+
         }
     }
 };
