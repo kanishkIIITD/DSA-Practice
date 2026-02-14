@@ -1363,6 +1363,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0799-champagne-tower](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
