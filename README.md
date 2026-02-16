@@ -167,6 +167,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
@@ -304,6 +305,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -1023,6 +1025,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1294,6 +1297,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
