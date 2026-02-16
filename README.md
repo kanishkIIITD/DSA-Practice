@@ -308,6 +308,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
@@ -2141,6 +2142,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
