@@ -314,6 +314,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1845,6 +1846,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
