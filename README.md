@@ -192,6 +192,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
@@ -825,6 +826,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
