@@ -67,6 +67,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -219,6 +220,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -322,6 +324,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
@@ -1470,6 +1473,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -1486,6 +1490,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
