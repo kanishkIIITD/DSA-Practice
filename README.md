@@ -428,6 +428,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0051-n-queens](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -950,6 +951,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
