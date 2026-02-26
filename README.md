@@ -219,6 +219,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -325,6 +326,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0868-binary-gap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1322,6 +1324,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
