@@ -484,6 +484,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -888,6 +889,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0611-valid-triangle-number) |
@@ -1764,6 +1766,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1776,6 +1779,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [2023-design-movie-rental-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2023-design-movie-rental-system) |
@@ -2131,6 +2135,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
@@ -2189,6 +2194,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -2211,6 +2217,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search Tree
 |  |
