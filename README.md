@@ -507,6 +507,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0704-binary-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -906,6 +907,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
