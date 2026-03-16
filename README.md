@@ -1103,6 +1103,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
@@ -1776,6 +1777,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2169-simple-bank-system) |
@@ -1789,6 +1791,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3454-separate-squares-ii) |
