@@ -12,7 +12,7 @@ public:
         // Edge case: If the single element is at the very end
         if (nums[n - 1] != nums[n - 2]) return nums[n - 1];
 
-        int low = 0, high = n-1;
+        int low = 1, high = n-2;
         int mid;
         while(low <= high){
             mid = (low + high) / 2;
