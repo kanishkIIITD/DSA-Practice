@@ -3,7 +3,8 @@ public:
     bool isPossible(vector<int>& nums, int threshold, int divisor){
         int sum = 0;
         for(int i = 0; i < nums.size(); i++){
-            sum += ceil((float)nums[i] / (float)divisor);
+            // sum += ceil((float)nums[i] / (float)divisor);
+            sum += (nums[i] + divisor - 1) / divisor;
         }
         return sum <= threshold;
     }
