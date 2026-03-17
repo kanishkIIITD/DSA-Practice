@@ -543,6 +543,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
@@ -925,6 +926,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
