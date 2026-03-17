@@ -527,6 +527,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -918,6 +919,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
