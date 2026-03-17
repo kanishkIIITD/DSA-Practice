@@ -3,7 +3,7 @@ public:
     bool isPossible(vector<int>& bloomDay, int m, int k, int day){
         int count = 0, ans = 0;
         for(int i = 0; i < bloomDay.size(); i++){
-            if(day / bloomDay[i] == 0){
+            if(bloomDay[i] > day){
                 ans += count / k;
                 count = 0;
             }
