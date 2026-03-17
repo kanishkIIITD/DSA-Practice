@@ -579,6 +579,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -929,6 +930,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
