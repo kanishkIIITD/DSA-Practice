@@ -369,6 +369,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -489,6 +490,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -914,6 +916,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1234,6 +1237,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0670-maximum-swap) |
@@ -1443,6 +1447,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
