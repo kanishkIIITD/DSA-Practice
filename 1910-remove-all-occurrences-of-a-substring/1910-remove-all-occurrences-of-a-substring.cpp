@@ -6,7 +6,7 @@ public:
         for(int i = 0; i < s.size(); i++){
             ans.push_back(s[i]);
             if(ans.length() > p-1 && ans.substr(ans.length()-p, p) == part)
-                ans.replace(ans.length()-p, p, "");
+                ans.erase(ans.length() - p);
         }
         return ans;
     }
