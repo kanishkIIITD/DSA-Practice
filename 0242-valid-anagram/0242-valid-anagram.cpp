@@ -1,19 +1,14 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.length() != t.length())
-            return false;
-
-        map<char, int> m;
-        for(int i = 0; i < s.length(); i++)
-            m[s[i]] ++;
-        for(int i = 0; i < t.length(); i++)
-            m[t[i]] --;
-        
-        for(auto i:m){
-            if(i.second != 0)
+        vector<int> hash(256);
+        for(int i = 0; i < s.size(); i++)
+            hash[s[i]]++;
+        for(int i = 0; i < t.size(); i++)
+            hash[t[i]]--;
+        for(int i = 0; i < 256; i++)
+            if(hash[i] != 0)
                 return false;
-        }
         return true;
     }
 };
