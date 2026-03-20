@@ -245,6 +245,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1980-find-unique-binary-string) |
@@ -1400,6 +1401,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1797,6 +1799,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
