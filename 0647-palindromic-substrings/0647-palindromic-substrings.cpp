@@ -1,27 +1,19 @@
 class Solution {
 public:
+    int expand(string s, int i, int j){
+        int count = 0;
+        while(i >= 0 && j < s.length() && s[i] == s[j]){
+            count++;
+            i--;j++;
+        }
+        return count;
+    }
     int countSubstrings(string s) {
         int count = 0;
-        // Checking in odd substrings
-        for(int curr = 0; curr < s.length(); curr++){
-            int i = curr;
-            int j = curr;
-            while(i >= 0 && j <= s.length()-1 && s[i] == s[j]){
-                count++;
-                i--;
-                j++; 
-            }
-        }
-
-        // Checking in even substrings
-        for(int curr = 0; curr < s.length(); curr++){
-            int i = curr;
-            int j = curr+1;
-            while(i >= 0 && j <= s.length()-1 && s[i] == s[j]){
-                count++;
-                i--;
-                j++; 
-            }
+        int n = s.length();
+        for(int i = 0; i < n; i++){
+            count += expand(s, i, i);
+            count += expand(s, i, i+1);
         }
         return count;
     }
