@@ -209,6 +209,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1786,6 +1787,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
