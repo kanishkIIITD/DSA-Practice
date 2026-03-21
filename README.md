@@ -824,6 +824,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -906,6 +907,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3643-flip-square-submatrix-vertically](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -1388,6 +1390,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
