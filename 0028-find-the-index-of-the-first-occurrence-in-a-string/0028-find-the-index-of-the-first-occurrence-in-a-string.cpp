@@ -1,21 +1,20 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        if(haystack.length() < needle.length())
+        if(needle.size() > haystack.size())
             return -1;
-        int i = 0;
-        while(i <= haystack.length() - needle.length()){
-            int j = 0;
-            while(j < needle.length()){
-                if(haystack[i] != needle[j])
-                    break;
-                j++;
+        int j = 0;
+        for(int i = 0; i < haystack.size(); i++){
+            while(j < needle.size() && haystack[i] == needle[j]){
                 i++;
+                j++;
             }
-            i = i-j; // This line helps to go back so that we don't miss any substrs
-            if(j == needle.length())
-                return i;
-            i++;
+            if(j == needle.size())
+                return i - j;
+            else{
+                i = i - j;
+                j = 0;
+            }
         }
         return -1;
     }
