@@ -1,24 +1,15 @@
 class Solution {
 public:
-    std::array<int, 256> hash(string s){
-        std::array<int, 256> hash = {0};
-        for(int i = 0; i < s.size(); i++)
-            hash[s[i]]++;
-        return hash;
-    }
-
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        map<std::array<int, 256>, vector<string>> m;
-        for(auto str: strs){
-            m[hash(str)].push_back(str);
+        unordered_map<string, vector<string>> mp;
+        for(int i = 0; i < strs.size(); i++){
+            string curr = strs[i];
+            sort(curr.begin(), curr.end());
+            mp[curr].push_back(strs[i]);
         }
-
         vector<vector<string>> ans;
-
-        for(auto i:m){
-            ans.push_back(i.second);
-        }
-        
+        for(auto it: mp)
+            ans.push_back(it.second);
         return ans;
     }
 };
