@@ -202,6 +202,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0917-reverse-only-letters) |
@@ -1590,6 +1591,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
