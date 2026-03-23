@@ -3,12 +3,10 @@ public:
     string convert(string s, int numRows) {
         if(numRows == 1)
             return s;
-
         vector<string> zigzag(numRows);
         int i = 0, row = 0;
-        bool direction  = 1;
-
-        while(true){
+        int direction = 1;
+        while(i < s.size()){
             if(direction){
                 while(row < numRows && i < s.size()){
                     zigzag[row++].push_back(s[i++]);
@@ -21,14 +19,11 @@ public:
                 }
                 row = 1;
             }
-
-            if(i >= s.size()) break;
             direction = !direction;
         }
-
         string ans = "";
-        for(int i = 0; i < zigzag.size(); i++){
-            ans += zigzag[i];
+        for(auto str: zigzag){
+            ans += str;
         }
         return ans;
     }
