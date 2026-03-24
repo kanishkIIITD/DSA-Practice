@@ -20,7 +20,7 @@ public:
         if(fast == nullptr)
             return head->next;
         ListNode* slow = head;
-        while(fast && fast->next){
+        while(fast->next){
             slow = slow->next;
             fast = fast->next;
         }
