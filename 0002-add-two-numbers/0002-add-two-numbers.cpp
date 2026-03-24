@@ -11,30 +11,50 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode();
-        ListNode* res = dummy;
-        int total = 0, carry = 0;
+        ListNode* t1 = l1;
+        ListNode* t2 = l2;
+        int carry = 0;
+        int sum = t1->val + t2->val;
+        int nodeVal = sum % 10;
+        carry = sum / 10;
+        ListNode* head = new ListNode(nodeVal);
+        t1 = t1->next;
+        t2 = t2->next;
 
-        while (l1 || l2 || carry) {
-            total = carry;
-
-            if (l1) {
-                total += l1->val;
-                l1 = l1->next;
-            }
-            if (l2) {
-                total += l2->val;
-                l2 = l2->next;
-            }
-
-            int num = total % 10;
-            carry = total / 10;
-            dummy->next = new ListNode(num);
-            dummy = dummy->next;
+        ListNode* temp = head;
+        while(t1 && t2){
+            sum = t1->val + t2->val + carry;
+            nodeVal = sum % 10;
+            carry = sum / 10;
+            ListNode* curr = new ListNode(nodeVal);
+            temp->next = curr;
+            temp = curr;
+            t1 = t1->next;
+            t2 = t2->next;
         }
-
-        ListNode* result = res->next;
-        delete res;
-        return result;         
+        while(t1){
+            sum = t1->val + carry;
+            nodeVal = sum % 10;
+            carry = sum / 10;
+            ListNode* curr = new ListNode(nodeVal);
+            temp->next = curr;
+            temp = curr;
+            t1 = t1->next;
+        }
+        while(t2){
+            sum = t2->val + carry;
+            nodeVal = sum % 10;
+            carry = sum / 10;
+            ListNode* curr = new ListNode(nodeVal);
+            temp->next = curr;
+            temp = curr;
+            t2 = t2->next;
+        }
+        if(carry > 0){
+            ListNode* curr = new ListNode(carry);
+            temp->next = curr;
+            temp = curr;
+        }
+        return head;
     }
 };
