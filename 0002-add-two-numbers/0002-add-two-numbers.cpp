@@ -11,50 +11,38 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* t1 = l1;
-        ListNode* t2 = l2;
+        // 1. Create a dummy node to anchor the start of our new list
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
         int carry = 0;
-        int sum = t1->val + t2->val;
-        int nodeVal = sum % 10;
-        carry = sum / 10;
-        ListNode* head = new ListNode(nodeVal);
-        t1 = t1->next;
-        t2 = t2->next;
-
-        ListNode* temp = head;
-        while(t1 && t2){
-            sum = t1->val + t2->val + carry;
-            nodeVal = sum % 10;
+        
+        // 2. A single loop that runs as long as there is ANY work left to do
+        while (l1 != nullptr || l2 != nullptr || carry != 0) {
+            int sum = carry; 
+            
+            // If l1 has a node, add its value and move forward
+            if (l1 != nullptr) {
+                sum += l1->val;
+                l1 = l1->next;
+            }
+            
+            // If l2 has a node, add its value and move forward
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next;
+            }
+            
+            // 3. Create the new node and calculate the next carry
+            curr->next = new ListNode(sum % 10);
             carry = sum / 10;
-            ListNode* curr = new ListNode(nodeVal);
-            temp->next = curr;
-            temp = curr;
-            t1 = t1->next;
-            t2 = t2->next;
+            
+            curr = curr->next;
         }
-        while(t1){
-            sum = t1->val + carry;
-            nodeVal = sum % 10;
-            carry = sum / 10;
-            ListNode* curr = new ListNode(nodeVal);
-            temp->next = curr;
-            temp = curr;
-            t1 = t1->next;
-        }
-        while(t2){
-            sum = t2->val + carry;
-            nodeVal = sum % 10;
-            carry = sum / 10;
-            ListNode* curr = new ListNode(nodeVal);
-            temp->next = curr;
-            temp = curr;
-            t2 = t2->next;
-        }
-        if(carry > 0){
-            ListNode* curr = new ListNode(carry);
-            temp->next = curr;
-            temp = curr;
-        }
+        
+        // 4. Our actual result starts immediately after the dummy node
+        ListNode* head = dummy->next;
+        delete dummy; // Clean up our temporary dummy node
+        
         return head;
     }
 };
