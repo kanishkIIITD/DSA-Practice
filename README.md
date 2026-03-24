@@ -880,6 +880,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -1570,6 +1571,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
@@ -1821,6 +1823,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
@@ -1912,6 +1915,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
