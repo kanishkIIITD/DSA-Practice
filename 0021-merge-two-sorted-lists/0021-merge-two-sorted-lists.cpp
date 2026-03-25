@@ -15,31 +15,25 @@ public:
             return list2;
         if(!list2)
             return list1;
-
-        ListNode* prev1 = NULL;
-        ListNode* temp1 = list1;
-        ListNode* temp2 = list2;
-        while(temp1 && temp2){
-            if(temp1->val <= temp2->val){
-                prev1 = temp1;
-                temp1 = temp1->next;
+        ListNode* dNode = new ListNode(-1);
+        ListNode* temp = dNode;
+        ListNode* t1 = list1;
+        ListNode* t2 = list2;
+        while(t1 && t2){
+            if(t1->val <= t2->val){
+                temp->next = t1;
+                t1 = t1->next;
             }
             else{
-                if(prev1)
-                    prev1->next = temp2;
-                else
-                    list1 = temp2;
-                ListNode* next2 = temp2->next;
-                temp2->next = temp1;
-                prev1 = temp2;
-                temp2 = next2;
+                temp->next = t2;
+                t2 = t2->next;
             }
+            temp = temp->next;
         }
-        while(temp2){
-            prev1->next = temp2;
-            prev1 = temp2;
-            temp2 = temp2->next;
-        }
-        return list1;
+        if(t1)
+            temp->next = t1;
+        if(t2)
+            temp->next = t2;
+        return dNode->next;
     }
 };
