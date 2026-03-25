@@ -37,12 +37,18 @@ public:
         return dNode->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size() == 0)
-            return NULL;
-        if(lists.size() == 1)
-            return lists[0];
-        vector<ListNode*> subvector(lists.begin() + 1, lists.end());
-        ListNode* list2 = mergeKLists(subvector);
-        return mergeTwoLists(lists[0], list2);
+        if (lists.empty()) return nullptr;
+
+        int interval = 1;
+        int n = lists.size();
+        
+        while (interval < n) {
+            for (int i = 0; i + interval < n; i += interval * 2) {
+                lists[i] = mergeTwoLists(lists[i], lists[i + interval]);
+            }
+            interval *= 2;
+        }
+        
+        return lists[0];
     }
 };
