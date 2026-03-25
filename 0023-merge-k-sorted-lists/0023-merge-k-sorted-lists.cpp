@@ -8,30 +8,41 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class compare{
-    public:
-    bool operator()(ListNode* a, ListNode* b){
-        return a->val > b->val;
-    }
-};
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
-        for(int i = 0; i < lists.size(); i++){
-            if(lists[i])
-                pq.push(lists[i]);
-        }
-        ListNode* ans = new ListNode();
-        ListNode* temp = ans;
-        while(!pq.empty()){
-            ListNode* node = pq.top();
-            pq.pop();
-            temp->next = node;
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if(!list1)
+            return list2;
+        if(!list2)
+            return list1;
+        ListNode* dNode = new ListNode(-1);
+        ListNode* temp = dNode;
+        ListNode* t1 = list1;
+        ListNode* t2 = list2;
+        while(t1 && t2){
+            if(t1->val <= t2->val){
+                temp->next = t1;
+                t1 = t1->next;
+            }
+            else{
+                temp->next = t2;
+                t2 = t2->next;
+            }
             temp = temp->next;
-            if(node->next)
-                pq.push(node->next);
         }
-        return ans->next;
+        if(t1)
+            temp->next = t1;
+        if(t2)
+            temp->next = t2;
+        return dNode->next;
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.size() == 0)
+            return NULL;
+        if(lists.size() == 1)
+            return lists[0];
+        vector<ListNode*> subvector(lists.begin() + 1, lists.end());
+        ListNode* list2 = mergeKLists(subvector);
+        return mergeTwoLists(lists[0], list2);
     }
 };
