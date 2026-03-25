@@ -901,6 +901,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
@@ -1926,6 +1927,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
