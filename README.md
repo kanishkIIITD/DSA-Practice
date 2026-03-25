@@ -1576,6 +1576,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -1918,6 +1919,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
