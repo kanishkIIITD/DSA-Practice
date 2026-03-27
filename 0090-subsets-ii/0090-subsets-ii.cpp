@@ -1,30 +1,22 @@
 class Solution {
 public:
-    void getSubsets(vector<int>&nums, int i, vector<vector<int>>&ans, vector<int>&temp){
-        // base
+    void solve(vector<int>& nums, int i, vector<int>& temp, vector<vector<int>>& ans){
         if(i >= nums.size()){
             ans.push_back(temp);
             return;
         }
-
-        int current = INT_MIN;
-        int idx = i;
-        while(idx < nums.size()){
-            if(current < nums[idx]){
-                current = nums[idx];
-                temp.push_back(current);
-                getSubsets(nums, idx+1, ans, temp);
-                temp.pop_back();
-            }
-            idx++;
-        }
-        ans.push_back(temp);
+        temp.push_back(nums[i]);
+        solve(nums, i+1, temp, ans);
+        temp.pop_back();
+        while(i+1 < nums.size() && nums[i] == nums[i+1])
+            i++;
+        solve(nums, i+1, temp, ans);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
         vector<int> temp;
-        getSubsets(nums, 0, ans, temp);
+        solve(nums, 0, temp, ans);
         return ans;
     }
 };
