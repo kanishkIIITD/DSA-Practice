@@ -18,15 +18,13 @@ public:
         q.push(root);
         while(!q.empty()){
             int size = q.size();
-            int levelRight;
             for(int i = 0; i < size; i++){
-                TreeNode* node = q.front();
+                auto front = q.front();
                 q.pop();
-                levelRight = node->val;
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
+                if(front->left) q.push(front->left);
+                if(front->right) q.push(front->right);
+                if(i == size-1) ans.push_back(front->val);
             }
-            ans.push_back(levelRight);
         }
         return ans;
     }
