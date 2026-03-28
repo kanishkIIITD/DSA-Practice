@@ -56,6 +56,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1064,6 +1065,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0900-reordered-power-of-2) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
@@ -1790,6 +1792,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2090,6 +2093,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2148,6 +2152,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -2216,6 +2221,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
