@@ -11,25 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>& preorder, int preS, int preE, vector<int>&inorder, int inS, int inE){
-        if(preS > preE)
+    TreeNode* solve(vector<int>& preorder, int preLow, int preHigh, vector<int>& inorder, int inLow, int inHigh){
+        if(inLow > inHigh || preLow > preHigh)
             return NULL;
-        TreeNode* root = new TreeNode(preorder[preS]);
-        int rootIndex = inS;
-        while(inorder[rootIndex] != preorder[preS]){
-            rootIndex++;
+        TreeNode* root = new TreeNode(preorder[preLow]);
+
+        int index = inLow;
+        while(index <= inHigh){
+            if(inorder[index] == preorder[preLow])
+                break;
+            index++;
         }
-        int leftLen = rootIndex - inS;
 
-        root->left = solve(preorder, preS + 1, preS + leftLen, inorder, inS, rootIndex - 1);
-
-        root->right = solve(preorder, preS + leftLen + 1, preE, inorder, rootIndex + 1, inE);
+        root->left = solve(preorder, preLow+1, preLow+index-inLow, inorder, inLow, index-1);
+        root->right = solve(preorder, preLow+index-inLow+1, preHigh, inorder, index+1, inHigh);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int preS = 0, inS = 0;
-        int preE = preorder.size()-1, inE = inorder.size()-1;
-        TreeNode* root = solve(preorder, preS, preE, inorder, inS, inE);
-        return root;
+        return solve(preorder, 0, preorder.size()-1, inorder, 0, inorder.size()-1);
     }
 };
