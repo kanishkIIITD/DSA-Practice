@@ -193,6 +193,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0243-shortest-word-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
@@ -1781,6 +1782,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0386-lexicographical-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1894,6 +1896,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -2091,6 +2094,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2142,6 +2146,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2222,6 +2227,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0450-delete-node-in-a-bst](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
