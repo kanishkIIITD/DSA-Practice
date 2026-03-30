@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* solve(vector<int>& preorder, int preLow, int preHigh, vector<int>& inorder, int inLow, int inHigh){
-        if(inLow > inHigh || preLow > preHigh)
+        if(inLow > inHigh && preLow > preHigh)
             return NULL;
         TreeNode* root = new TreeNode(preorder[preLow]);
 
