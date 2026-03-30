@@ -1,57 +1,44 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    TreeNode* helper(TreeNode* root){
-        if(!root->left)
-            return root->right;
-        else if(!root->right)   
-            return root->left;
-        else{
-            TreeNode* rightChild = root->right;
-            TreeNode* lastRight = findLastRight(root->left);
-            lastRight->right = rightChild;
-            return root->left;
-        }
-    }
-    TreeNode* findLastRight(TreeNode* root){
-        if(!root->right)
-            return root;
-        return findLastRight(root->right);
-    }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root)
-            return root;
-        if(root->val == key)
-            return helper(root);
-        TreeNode* dummy = root;
-        while(root){
-            if(root->val > key){
-                if(root->left && root->left->val == key){
-                    root->left = helper(root->left);
-                    break;
-                }
-                else
-                    root = root->left;
+        // Base case: the key was not found or the tree is empty
+        if (!root) return nullptr;
+
+        // 1. Search for the node
+        if (key < root->val) {
+            root->left = deleteNode(root->left, key);
+        } 
+        else if (key > root->val) {
+            root->right = deleteNode(root->right, key);
+        } 
+        // 2. Node found! Let's delete it.
+        else {
+            // Case 1 & 2: Node has 0 or 1 child
+            if (!root->left) {
+                TreeNode* rightChild = root->right;
+                delete root;
+                return rightChild;
+            } 
+            else if (!root->right) {
+                TreeNode* leftChild = root->left;
+                delete root;
+                return leftChild;
             }
-            else{
-                if(root->right && root->right->val == key){
-                    root->right = helper(root->right);
-                    break;
-                }
-                else
-                    root = root->right;
+            
+            // Case 3: Node has 2 children
+            // Find the inorder successor (smallest node in the right subtree)
+            TreeNode* successor = root->right;
+            while (successor->left) {
+                successor = successor->left;
             }
+            
+            // Replace the current node's value with the successor's value
+            root->val = successor->val;
+            
+            // Delete the successor node from the right subtree
+            root->right = deleteNode(root->right, successor->val);
         }
-        return dummy;
+        
+        return root;
     }
 };
