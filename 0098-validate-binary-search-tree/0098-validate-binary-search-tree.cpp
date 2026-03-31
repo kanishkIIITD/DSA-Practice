@@ -11,16 +11,14 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root, long leftMax, long rightMax){
-        if(!root)
-            return true;
-        if(root->val >= rightMax || root->val <= leftMax)
+    bool solve(TreeNode* root, long mini, long maxi){
+        if(!root) return true;
+        if(mini >= root->val || root->val >= maxi)
             return false;
-        return solve(root->left, leftMax, root->val) && solve(root->right, root->val, rightMax);
+        return solve(root->left, mini, root->val) && solve(root->right, root->val, maxi);
     }
     bool isValidBST(TreeNode* root) {
-        long leftMax = LONG_MIN;
-        long rightMax = LONG_MAX;
-        return solve(root, leftMax, rightMax);
+        long mini = LONG_MIN, maxi = LONG_MAX;
+        return solve(root, mini, maxi);
     }
 };
