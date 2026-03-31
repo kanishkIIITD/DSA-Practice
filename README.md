@@ -2491,6 +2491,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
