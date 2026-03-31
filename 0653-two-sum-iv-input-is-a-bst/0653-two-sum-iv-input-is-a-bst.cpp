@@ -9,56 +9,60 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class BSTIterator {
-    stack<TreeNode*> myStack;
-    bool reverse = true;
-public:
-    BSTIterator(TreeNode* root, bool isReverse) {
-        reverse = isReverse;
-        pushAll(root);
-    }
-    
-    int next() {
-        TreeNode* node = myStack.top();
-        myStack.pop();
-        if(!reverse)
-            pushAll(node->right);   
-        else
-            pushAll(node->left);
-        return node->val;
-    }
-    
-    bool hasNext() {
-        return !myStack.empty();
-    }
-private:
-    void pushAll(TreeNode* node){
-        while(node){
-            myStack.push(node);
-            if(!reverse)
-                node = node->left;
-            else
-                node = node->right;
-        }
-    }
-};
 class Solution {
 public:
+    int getNext(stack<TreeNode*>& st){
+        TreeNode* top = st.top(); st.pop();
+        if(top->right){
+            TreeNode* curr = top->right;
+            st.push(curr);
+            while(curr->left){
+                curr = curr->left;
+                st.push(curr);
+            }
+        }
+        return top->val;
+    }
+    int getBefore(stack<TreeNode*>& st){
+        TreeNode* top = st.top(); st.pop();
+        if(top->left){
+            TreeNode* curr = top->left;
+            st.push(curr);
+            while(curr->right){
+                curr = curr->right;
+                st.push(curr);
+            }
+        }
+        return top->val;
+    }
     bool findTarget(TreeNode* root, int k) {
-        if(!root)
-            return false;
-        BSTIterator l(root, false);
-        BSTIterator r(root, true);
+        if(!root) return false;
+        stack<TreeNode*> nextStack;
+        stack<TreeNode*> beforeStack;
 
-        int i = l.next();
-        int j = r.next();
-        while(i < j){
-            if(i + j == k)
+        TreeNode* curr = root;
+        nextStack.push(curr);
+        while(curr->left){
+            curr = curr->left;
+            nextStack.push(curr);
+        }
+        int next = getNext(nextStack);
+
+        curr = root;
+        beforeStack.push(curr);
+        while(curr->right){
+            curr = curr->right;
+            beforeStack.push(curr);
+        }
+        int before = getBefore(beforeStack);
+
+        while(next < before){
+            if(next + before == k)
                 return true;
-            else if(i + j < k)
-                i = l.next();
+            else if(next + before < k)
+                next = getNext(nextStack);
             else
-                j = r.next();
+                before = getBefore(beforeStack);
         }
         return false;
     }
