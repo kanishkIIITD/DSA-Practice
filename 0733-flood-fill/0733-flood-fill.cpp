@@ -3,29 +3,27 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int m = image.size();
         int n = image[0].size();
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        // bfs
+        vector<vector<int>> vis(m, vector<int>(n));
+        int originalColor = image[sr][sc];
         queue<pair<int, int>> q;
         q.push({sr, sc});
         vis[sr][sc] = 1;
+        image[sr][sc] = color;
         while(!q.empty()){
             int row = q.front().first;
             int col = q.front().second;
             q.pop();
-            
-            vector<int> deltaRow = {-1, 0, 1, 0};
-            vector<int> deltaCol = {0, 1, 0, -1};
-            for(int k = 0; k < 4; k++){
-                int nrow = row + deltaRow[k];
-                int ncol = col + deltaCol[k];
-                if(0 <= nrow && nrow < m && 0 <= ncol && ncol < n 
-                && image[row][col] == image[nrow][ncol] && !vis[nrow][ncol]){
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
+            vector<int> dx = {-1, 0, 1, 0};
+            vector<int> dy = {0, -1, 0, 1};
+            for(int i = 0; i < 4; i++){
+                int nr = row + dx[i];
+                int nc = col + dy[i];
+                if(0 <= nr && nr < m && 0 <= nc && nc < n && image[nr][nc] == originalColor && !vis[nr][nc]){
+                    q.push({nr, nc});
+                    vis[nr][nc] = 1;
+                    image[nr][nc] = color;
                 }
             }
-
-            image[row][col] = color;
         }
         return image;
     }
