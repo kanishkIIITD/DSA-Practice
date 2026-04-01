@@ -1809,6 +1809,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -2182,6 +2183,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0801-is-graph-bipartite) |
@@ -2498,6 +2500,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -2509,6 +2512,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
