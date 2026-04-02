@@ -2505,6 +2505,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
