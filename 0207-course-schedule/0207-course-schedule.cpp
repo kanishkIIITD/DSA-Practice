@@ -1,24 +1,20 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> adj[numCourses];
-        vector<int> indegree(numCourses, 0);
-        for(int i = 0; i < prerequisites.size(); i++){
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
-            adj[v].push_back(u);
-            indegree[u]++;
+        vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses);
+        for(auto course: prerequisites){
+            adj[course[1]].push_back(course[0]);
+            indegree[course[0]]++;
         }
         queue<int> q;
-        for(int i = 0; i < indegree.size(); i++){
+        for(int i = 0; i < numCourses; i++){
             if(indegree[i] == 0)
                 q.push(i);
         }
-
         int count = 0;
         while(!q.empty()){
-            int node = q.front();
-            q.pop();
+            int node = q.front(); q.pop();
             count++;
             for(auto it: adj[node]){
                 indegree[it]--;
@@ -28,7 +24,6 @@ public:
         }
         if(count == numCourses)
             return true;
-        else
-            return false;
+        return false;
     }
 };
