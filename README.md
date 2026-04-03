@@ -1743,6 +1743,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1827,6 +1828,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
@@ -2205,6 +2207,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0694-number-of-distinct-islands) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -2358,6 +2361,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2532,6 +2536,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
