@@ -14,6 +14,12 @@ public:
             int row = pq.top().second.first;
             int col = pq.top().second.second;
             pq.pop();
+            if(row == m - 1 && col == n - 1) {
+                return distance;
+            }
+            if(distance > dist[row][col]) {
+                continue;
+            }
             for(int i = 0; i < 4; i++){
                 int nr = row + dx[i];
                 int nc = col + dy[i];
