@@ -735,6 +735,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1030,6 +1031,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1365,6 +1367,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2509-minimize-xor](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
