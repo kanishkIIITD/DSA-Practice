@@ -523,6 +523,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -1548,6 +1549,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0474-ones-and-zeroes) |
