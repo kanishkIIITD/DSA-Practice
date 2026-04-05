@@ -12,21 +12,26 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        vector<vector<long long>> dp(m+1, vector<long long>(n+1));
+        // vector<vector<long long>> dp(m+1, vector<long long>(n+1));
+        vector<long long> dp(n+1);
         // return solve(0, 0, m, n, obstacleGrid, dp);
         if(obstacleGrid[m-1][n-1] == 1)
             return 0;
-        dp[m-1][n-1] = 1;
+        dp[n-1] = 1;
         for(int i = m-1; i >= 0; i--){
+            vector<long long> temp(n+1);
             for(int j = n-1; j >= 0; j--){
-                if(i == m-1 && j == n-1)
+                if(i == m-1 && j == n-1){
+                    temp[j] = 1;
                     continue;
+                }
                 if(obstacleGrid[i][j] == 1)
-                    dp[i][j] = 0;
+                    temp[j] = 0;
                 else
-                    dp[i][j] = dp[i+1][j] + dp[i][j+1];
+                    temp[j] = dp[j] + temp[j+1];
             }
+            dp = temp;
         }
-        return dp[0][0];
+        return dp[0];
     }
 };
