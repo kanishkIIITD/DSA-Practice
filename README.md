@@ -595,6 +595,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
@@ -1581,6 +1582,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
