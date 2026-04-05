@@ -573,6 +573,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
@@ -1423,6 +1424,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -1574,6 +1576,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
