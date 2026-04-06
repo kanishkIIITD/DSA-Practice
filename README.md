@@ -232,6 +232,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1143-longest-common-subsequence) |
@@ -1597,6 +1598,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
+| [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
