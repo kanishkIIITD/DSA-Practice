@@ -50,6 +50,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -567,6 +568,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1495,6 +1497,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
