@@ -183,6 +183,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
@@ -1559,6 +1560,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
