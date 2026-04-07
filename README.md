@@ -178,6 +178,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0072-edit-distance) |
@@ -1331,6 +1332,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
@@ -1553,6 +1555,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
@@ -1672,6 +1675,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0231-power-of-two) |
