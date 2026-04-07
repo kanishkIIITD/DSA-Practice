@@ -180,6 +180,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0127-word-ladder) |
@@ -1556,6 +1557,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0120-triangle) |
