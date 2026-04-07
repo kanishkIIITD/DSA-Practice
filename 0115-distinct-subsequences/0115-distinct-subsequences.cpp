@@ -14,18 +14,21 @@ public:
     // }
     int numDistinct(string s, string t) {
         int m = s.size(), n = t.size();
-        vector<vector<unsigned int>> dp(m+1, vector<unsigned int>(n+1));
-        for(int i = 0; i <= m; i++)
-            dp[i][n] = 1;
+        // vector<vector<unsigned int>> dp(m+1, vector<unsigned int>(n+1));
+        vector<unsigned int> dp(n+1);
+        dp[n] = 1;
         for(int i = m-1; i >= 0; i--){
+            vector<unsigned int> temp(n+1);
+            temp[n] = 1;
             for(int j = n-1; j >= 0; j--){
                 if(s[i] == t[j])
-                    dp[i][j] = dp[i+1][j+1] + dp[i+1][j];
+                    temp[j] = dp[j+1] + dp[j];
                 else 
-                    dp[i][j] = dp[i+1][j];
+                    temp[j] = dp[j];
             }
+            dp = temp;
         }
-        return dp[0][0];
+        return dp[0];
         // return solve(0, 0, s, t, dp);
     }
 };
