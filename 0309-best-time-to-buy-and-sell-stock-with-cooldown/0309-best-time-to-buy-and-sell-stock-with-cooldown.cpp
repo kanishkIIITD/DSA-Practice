@@ -17,20 +17,23 @@ public:
     // }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(2)));
+        // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(2)));
+        vector<vector<int>> dp(2, vector<int>(2));
         for(int i = n-1; i >= 0; i--){
+            vector<vector<int>> temp(2, vector<int>(2));
             for(int buy = 0; buy < 2; buy++){
                 for(int cooldown = 1; cooldown >= 0; cooldown--){
                     if(cooldown)
-                        dp[i][buy][cooldown] = dp[i+1][buy][!cooldown];
+                        temp[buy][cooldown] = dp[buy][!cooldown];
                     else if(buy)
-                        dp[i][buy][cooldown] = max(dp[i+1][buy][cooldown], -prices[i] + dp[i+1][!buy][cooldown]);
+                        temp[buy][cooldown] = max(dp[buy][cooldown], -prices[i] + dp[!buy][cooldown]);
                     else
-                        dp[i][buy][cooldown] = max(dp[i+1][buy][cooldown], prices[i] + dp[i+1][!buy][!cooldown]);
+                        temp[buy][cooldown] = max(dp[buy][cooldown], prices[i] + dp[!buy][!cooldown]);
                 }
             }
+            dp = temp;
         }
-        return dp[0][1][0];
+        return dp[1][0];
         // return solve(0, true, false, prices, dp);
     }
 };
