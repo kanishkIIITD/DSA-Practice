@@ -13,17 +13,20 @@ public:
     // }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int>(n+1));
+        // vector<vector<int>> dp(n+1, vector<int>(n+1));
+        vector<int> dp(n+1);
         for(int i = n-1; i >= 0; i--){
+            vector<int> temp(n+1);
             for(int prev = n-1; prev >= 0; prev--){
-                int notpick = dp[i+1][prev];
+                int notpick = dp[prev];
                 int pick = 0;
                 if(prev == 0 || nums[i] > nums[prev-1])
-                    pick = 1 + dp[i+1][i+1];
-                dp[i][prev] = max(pick, notpick);
+                    pick = 1 + dp[i+1];
+                temp[prev] = max(pick, notpick);
             }
+            dp = temp;
         }
-        return dp[0][0];
+        return dp[0];
         // return solve(0, 0, nums, dp);
     }
 };
