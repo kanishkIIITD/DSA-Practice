@@ -65,6 +65,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -234,6 +235,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1021-remove-outermost-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -607,6 +609,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -955,6 +958,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1113,6 +1117,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1609,6 +1614,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
