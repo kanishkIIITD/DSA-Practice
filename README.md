@@ -561,6 +561,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0704-binary-search) |
@@ -1602,6 +1603,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -2017,6 +2019,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1622-fancy-sequence) |
@@ -2441,6 +2444,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
