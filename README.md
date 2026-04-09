@@ -239,6 +239,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -1703,6 +1704,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [1106-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1974,6 +1976,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
