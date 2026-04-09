@@ -629,6 +629,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1293-three-consecutive-odds) |
@@ -1462,6 +1463,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1633,6 +1635,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
