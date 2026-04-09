@@ -653,6 +653,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1126,6 +1127,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1631,6 +1633,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
