@@ -612,6 +612,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1623,6 +1624,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
