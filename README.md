@@ -576,6 +576,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-sliding-puzzle) |
@@ -1618,6 +1619,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
