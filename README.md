@@ -160,6 +160,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3714-longest-balanced-substring-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -908,6 +909,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
