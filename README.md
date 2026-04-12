@@ -252,6 +252,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1643,6 +1644,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
