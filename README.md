@@ -318,6 +318,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2851-string-transformation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2851-string-transformation) |
 | [2887-sort-vowels-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1277,6 +1278,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2851-string-transformation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2851-string-transformation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1684,6 +1686,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2851-string-transformation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2851-string-transformation) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1752,6 +1755,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2851-string-transformation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2851-string-transformation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
