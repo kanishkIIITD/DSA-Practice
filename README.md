@@ -591,6 +591,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [0860-lemonade-change](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1376,6 +1377,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [0860-lemonade-change](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
