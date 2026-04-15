@@ -310,6 +310,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -777,6 +778,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
