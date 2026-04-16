@@ -421,6 +421,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -616,6 +617,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1046,6 +1048,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1805,6 +1808,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
