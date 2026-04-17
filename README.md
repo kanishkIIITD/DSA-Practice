@@ -57,6 +57,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -422,6 +423,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -610,6 +612,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1814,6 +1817,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
