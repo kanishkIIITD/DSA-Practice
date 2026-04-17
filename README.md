@@ -63,6 +63,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -622,6 +623,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -1350,6 +1352,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1820,6 +1823,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
