@@ -5,12 +5,13 @@ public:
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] == 0)
                 zero++;
-            while(zero > k){
+            if(zero > k){
                 if(nums[j] == 0)
                     zero--;
                 j++;
             }
-            maxi = max(maxi, i - j + 1);
+            if(zero <= k)
+                maxi = max(maxi, i - j + 1);
         }
         return maxi;
     }
