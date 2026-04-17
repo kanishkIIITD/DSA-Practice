@@ -6,11 +6,12 @@ public:
         for(int i = 0; i < s.size(); i++){
             hash[s[i] - 'A']++;
             maxFreq = max(maxFreq, hash[s[i] - 'A']);
-            while((i - j + 1) - maxFreq > k){
+            if((i - j + 1) - maxFreq > k){
                 hash[s[j] - 'A']--;
                 j++;
             }
-            maxi = max(maxi, i - j + 1);
+            if((i - j + 1) - maxFreq <= k)
+                maxi = max(maxi, i - j + 1);
         }
         return maxi;
     }
