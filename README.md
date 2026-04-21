@@ -705,6 +705,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
@@ -2004,6 +2005,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -2708,6 +2710,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
