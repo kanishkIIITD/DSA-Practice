@@ -1,21 +1,24 @@
-const int N=1e5+1;
-long long sum[N]={0};
 class Solution {
 public:
-    static long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
-        const int n=prices.size(), k2=k/2;
-        long long modify=0;
-        for(int i=0; i<n; i++){
-            const int x=prices[i]; 
-            sum[i+1]=sum[i]+strategy[i]*x;
-            modify+=(-(i>=k2 & i<k)& x);
+    long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
+        long long total_original_profit = 0;
+        int n = prices.size();
+        for(int i = 0; i < n; i++)
+            total_original_profit += prices[i] * strategy[i];
+        vector<long long> pref_orig(n);
+        vector<long long> pref_prices(n);
+        pref_orig[0] = prices[0] * strategy[0];
+        pref_prices[0] = prices[0];
+        for(int i = 1; i < n; i++){
+            pref_orig[i] = pref_orig[i-1] + prices[i] * strategy[i];
+            pref_prices[i] = pref_prices[i-1] + prices[i];
         }
-        long long profit=max(sum[n], modify+sum[n]-sum[k]);
-
-        for(int i=1; i+k<=n; i++){ 
-            modify+=prices[i+k-1]-prices[i+k2-1];
-            profit=max(profit, modify+sum[n]-sum[i+k]+sum[i]);
+        long long delta = 0;
+        for(int i = 0; i < n - k + 1; i++){
+            long long old_window_profit = pref_orig[i + k - 1] - (i > 0 ? pref_orig[i - 1] : 0);
+            long long new_window_profit = pref_prices[i + k - 1] - (i + k/2 > 0 ? pref_prices[i + k/2 - 1] : 0);
+            delta = max(delta, new_window_profit - old_window_profit);
         }
-        return profit;
+        return total_original_profit + delta;
     }
 };
