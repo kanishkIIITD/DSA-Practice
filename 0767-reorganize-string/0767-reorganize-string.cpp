@@ -1,37 +1,32 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        int hash[26] = {0};
-        int max_char_freq = 0;
-        char max_char;
+        priority_queue<pair<int, char>> pq;
+        vector<int> hash(26);
         for(int i = 0; i < s.size(); i++){
-            hash[s[i] - 'a']++;
-            if(hash[s[i] - 'a'] > max_char_freq){
-                max_char_freq = hash[s[i] - 'a'];
-                max_char = s[i];
-            }
+            hash[s[i] - 'a'] += 1;
         }
-
-        int i = 0;
-        while(max_char_freq > 0 && i < s.size()){
-            s[i] = max_char;
-            max_char_freq--;
-            i += 2;
+        for(int i = 0; i < 26; i++){
+            if(hash[i] > 0)
+                pq.push({hash[i], i + 'a'});
         }
-
-        if(max_char_freq != 0)
-            return "";
-        
-        hash[max_char - 'a'] = 0;
-        
-        for(int j = 0; j < 26; j++){
-            while(hash[j] > 0){
-                i = i >= s.size() ? 1 : i;
-                s[i] = j + 'a';
-                hash[j]--;
-                i += 2;
-            }
+        string ans = "";
+        while(pq.size() > 1){
+            auto [freq1, ch1] = pq.top(); pq.pop();
+            auto [freq2, ch2] = pq.top(); pq.pop();
+            ans += ch1;
+            ans += ch2;
+            if(freq1-1 > 0)
+                pq.push({freq1-1, ch1});
+            if(freq2-1 > 0)
+                pq.push({freq2-1, ch2});
         }
-        return s;
+        if(!pq.empty()){
+            auto [freq, ch] = pq.top(); pq.pop();
+            if(freq > 1)
+                return "";
+            ans += ch;
+        }
+        return ans;
     }
 };
