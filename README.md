@@ -737,6 +737,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
@@ -1453,6 +1454,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
@@ -1916,6 +1918,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2023-design-movie-rental-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
