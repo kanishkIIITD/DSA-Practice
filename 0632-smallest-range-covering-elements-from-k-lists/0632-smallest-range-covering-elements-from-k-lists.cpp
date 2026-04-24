@@ -1,31 +1,30 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
-        int maxi = INT_MIN, mini = INT_MAX;
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+        int currentMax = INT_MIN;
         for(int i = 0; i < nums.size(); i++){
-            if(nums[i].size() > 0){
-                pq.push({nums[i][0], i, 0});
-                maxi = max(maxi, nums[i][0]);
-                mini = min(mini, nums[i][0]);
-            }
+            pq.push({nums[i][0], {i, 0}});
+            currentMax = max(currentMax, nums[i][0]);
         }
-        int ansStart = mini, ansEnd = maxi;
+        int bestStart = pq.top().first;
+        int bestEnd = currentMax;
         while(!pq.empty()){
-            auto [ele, i, j] = pq.top();
+            int currentMin = pq.top().first;
+            int row = pq.top().second.first;
+            int col = pq.top().second.second;
             pq.pop();
-            mini = ele;
-            if(maxi - mini < ansEnd - ansStart){
-                ansStart = mini;
-                ansEnd = maxi;
+            if(currentMax - currentMin < bestEnd - bestStart){
+                bestStart = currentMin;
+                bestEnd = currentMax;
             }
-            if(j+1 < nums[i].size()){
-                pq.push({nums[i][j+1], i, j+1});
-                maxi = max(maxi, nums[i][j+1]);
+            if(col + 1 < nums[row].size()){
+                pq.push({nums[row][col+1], {row, col+1}});
+                currentMax = max(currentMax, nums[row][col+1]);
             }
             else
                 break;
         }
-        return {ansStart, ansEnd};
+        return {bestStart, bestEnd};
     }
 };
