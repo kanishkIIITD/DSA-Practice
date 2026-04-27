@@ -675,6 +675,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1542,6 +1543,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -2023,6 +2025,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1558-course-schedule-iv) |
@@ -2412,6 +2415,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2741,6 +2745,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
