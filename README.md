@@ -965,6 +965,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1606,6 +1607,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 ## Simulation
@@ -1795,6 +1797,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3640-trionic-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
