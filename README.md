@@ -570,6 +570,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -1286,6 +1287,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -1697,6 +1699,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0322-coin-change](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0322-coin-change) |
 | [0333-largest-bst-subtree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0333-largest-bst-subtree) |
 | [0368-largest-divisible-subset](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
