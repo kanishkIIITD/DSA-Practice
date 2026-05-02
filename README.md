@@ -2102,6 +2102,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -2140,6 +2141,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
