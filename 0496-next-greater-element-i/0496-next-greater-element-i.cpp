@@ -17,8 +17,10 @@ public:
         vector<int> ans;
         for(int i = 0; i < nums1.size(); i++){
             for(int j = 0; j < n; j++){
-                if(nums1[i] == nums2[j])
+                if(nums1[i] == nums2[j]){
                     ans.push_back(nge[j]);
+                    break;
+                }
             }
         }
         return ans;
