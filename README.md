@@ -766,6 +766,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -2134,6 +2135,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -2299,6 +2301,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
