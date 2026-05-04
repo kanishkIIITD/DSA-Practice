@@ -515,6 +515,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -1278,6 +1279,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0066-plus-one) |
@@ -1534,6 +1536,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0064-minimum-path-sum) |
