@@ -31,6 +31,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1946,6 +1947,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -2166,6 +2168,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -2232,6 +2235,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
