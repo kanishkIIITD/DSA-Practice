@@ -23,20 +23,33 @@ public:
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int m = matrix.size(), n = matrix[0].size();
-        vector<vector<int>> prefix(m, vector<int>(n));
-        for(int j = 0; j < n; j++){
-            int sum = 0;
-            for(int i = 0; i < m; i++){
-                if(matrix[i][j] == '1')
-                    sum += 1;
-                else
-                    sum = 0;
-                prefix[i][j] = sum;
-            }
-        }
+        // vector<vector<int>> prefix(m, vector<int>(n));
+        // for(int j = 0; j < n; j++){
+        //     int sum = 0;
+        //     for(int i = 0; i < m; i++){
+        //         if(matrix[i][j] == '1')
+        //             sum += 1;
+        //         else
+        //             sum = 0;
+        //         prefix[i][j] = sum;
+        //     }
+        // }
+        // int maxArea = 0;
+        // for(int i = 0; i < m; i++){
+        //     maxArea = max(maxArea, largestRectangleArea(prefix[i]));
+        // }
+        // return maxArea;
+
+        vector<int> height(n);
         int maxArea = 0;
         for(int i = 0; i < m; i++){
-            maxArea = max(maxArea, largestRectangleArea(prefix[i]));
+            for(int j = 0; j < n; j++){
+                if(matrix[i][j] == '1')
+                    height[j]++;
+                else
+                    height[j] = 0;
+            }
+            maxArea = max(maxArea, largestRectangleArea(height));
         }
         return maxArea;
     }
