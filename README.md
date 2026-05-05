@@ -21,6 +21,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
@@ -2165,6 +2166,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -2231,6 +2233,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0206-reverse-linked-list) |
@@ -2261,6 +2264,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
