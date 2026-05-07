@@ -972,6 +972,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
@@ -1821,6 +1822,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3637-count-number-of-balanced-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
