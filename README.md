@@ -836,6 +836,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1672,6 +1673,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2751-robot-collisions) |
