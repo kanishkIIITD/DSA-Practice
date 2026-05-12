@@ -633,6 +633,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0885-spiral-matrix-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1570,6 +1571,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [0885-spiral-matrix-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -1649,6 +1651,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
+| [0885-spiral-matrix-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
