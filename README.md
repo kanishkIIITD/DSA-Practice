@@ -728,6 +728,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1223,6 +1224,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1490,6 +1492,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
