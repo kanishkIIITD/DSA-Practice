@@ -557,6 +557,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0139-word-break](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0179-largest-number) |
@@ -1092,6 +1093,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
