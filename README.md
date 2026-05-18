@@ -696,6 +696,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1390-four-divisors) |
@@ -1995,6 +1996,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1405-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1405-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
