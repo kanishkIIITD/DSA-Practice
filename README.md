@@ -120,6 +120,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -844,6 +845,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1076,6 +1078,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1160,6 +1163,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
