@@ -301,6 +301,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -462,6 +463,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-largest-magic-square) |
@@ -1822,6 +1824,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1957,6 +1960,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
