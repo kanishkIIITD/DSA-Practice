@@ -1452,6 +1452,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3676-smallest-number-with-all-set-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1897,6 +1898,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3660-jump-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -2378,6 +2380,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
