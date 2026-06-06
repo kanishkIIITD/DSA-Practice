@@ -482,6 +482,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2625-increment-submatrices-by-one) |
@@ -867,6 +868,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2574-left-and-right-sum-differences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
