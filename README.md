@@ -813,6 +813,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1095,6 +1096,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1725,6 +1727,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2075-decode-the-slanted-ciphertext](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
