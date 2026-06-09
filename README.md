@@ -1019,6 +1019,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3660-jump-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1604,6 +1605,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
