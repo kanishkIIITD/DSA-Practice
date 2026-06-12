@@ -441,6 +441,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -981,6 +982,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1447,6 +1449,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1898,6 +1901,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
@@ -2188,6 +2192,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -2529,6 +2534,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
