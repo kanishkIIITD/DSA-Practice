@@ -390,6 +390,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1041,6 +1042,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3797-design-spreadsheet](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -1766,6 +1768,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
