@@ -21,9 +21,8 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* forw = prev->next;
-        prev->next = forw->next;
-        delete forw;
+        prev->next = slow->next;
+        delete slow;
         return head;
     }
 };
