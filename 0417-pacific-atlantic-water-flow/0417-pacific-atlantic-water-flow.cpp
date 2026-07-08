@@ -1,68 +1,55 @@
 class Solution {
 public:
-    vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        int m = heights.size(), n = heights[0].size();
-        vector<vector<bool>> pacific(m, vector<bool>(n, false));
-        vector<vector<bool>> atlantic(m, vector<bool>(n, false));
-        
-        for (int i = 0; i < m; i++) {
-            pacific[i][0] = true;
-            atlantic[i][n-1] = true;
+    vector<vector<int>> pacificAtlantic(vector<vector<int>>& mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+        vector<vector<int>> p(n, vector<int>(m));
+        vector<vector<int>> q(n, vector<int>(m));
+        queue<pair<int, int>> q1;
+        queue<pair<int, int>> q2;
+        for(int i = 0; i < n; i++){
+            p[i][0] = 1;
+            q1.push({i, 0});
+            q[i][m-1] = 1;
+            q2.push({i, m-1});
         }
-        for (int j = 0; j < n; j++) {
-            pacific[0][j] = true;
-            atlantic[m-1][j] = true;
+        for(int i = 0; i < m; i++){
+            p[0][i] = 1;
+            q1.push({0, i});
+            q[n-1][i] = 1;
+            q2.push({n-1, i});
         }
-        
-        bool updated = true;
-        
-        while(updated) {
-            updated = false;
-            for (int i = 0; i < m; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (!pacific[i][j]) {
-                        if (i > 0 && pacific[i-1][j] && heights[i][j] >= heights[i-1][j]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (i < m-1 && pacific[i+1][j] && heights[i][j] >= heights[i+1][j]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (j > 0 && pacific[i][j-1] && heights[i][j] >= heights[i][j-1]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        } else if (j < n-1 && pacific[i][j+1] && heights[i][j] >= heights[i][j+1]) {
-                            pacific[i][j] = true;
-                            updated = true;
-                        }
-                    }
-                    
-                    if (!atlantic[i][j]) {
-                        if (i > 0 && atlantic[i-1][j] && heights[i][j] >= heights[i-1][j]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (i < m-1 && atlantic[i+1][j] && heights[i][j] >= heights[i+1][j]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (j > 0 && atlantic[i][j-1] && heights[i][j] >= heights[i][j-1]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        } else if (j < n-1 && atlantic[i][j+1] && heights[i][j] >= heights[i][j+1]) {
-                            atlantic[i][j] = true;
-                            updated = true;
-                        }
-                    }
+        int dr[4] = {-1, 0, 1, 0};
+        int dc[4] = {0, 1, 0, -1};
+        while(!q1.empty()){
+            auto [r, c] = q1.front(); q1.pop();
+            for(int i = 0; i < 4; i++){
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if(0 <= nr && nr < n && 0 <= nc && nc < m && !p[nr][nc] && mat[nr][nc] >= mat[r][c]){
+                    p[nr][nc] = 1;
+                    q1.push({nr, nc});
                 }
             }
         }
-        
-        vector<vector<int>> result;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (pacific[i][j] && atlantic[i][j])
-                    result.push_back({i, j});
+        while(!q2.empty()){
+            auto [r, c] = q2.front(); q2.pop();
+            for(int i = 0; i < 4; i++){
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if(0 <= nr && nr < n && 0 <= nc && nc < m && !q[nr][nc] && mat[nr][nc] >= mat[r][c]){
+                    q[nr][nc] = 1;
+                    q2.push({nr, nc});
+                }
             }
         }
-        
-        return result;
+        vector<vector<int>> ans;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(p[i][j] && q[i][j])
+                    ans.push_back({i, j});
+            }
+        }
+        return ans;
     }
 };
