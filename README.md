@@ -161,6 +161,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1004,6 +1005,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1245,6 +1247,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3453-separate-squares-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3620-network-recovery-pathways) |
@@ -2996,6 +2999,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -3014,6 +3018,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
