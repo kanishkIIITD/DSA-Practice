@@ -2255,6 +2255,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -2690,6 +2691,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -3003,6 +3005,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -3025,6 +3028,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
