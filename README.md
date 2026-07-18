@@ -817,6 +817,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1461,6 +1462,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2050-count-good-numbers) |
@@ -2499,6 +2501,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
