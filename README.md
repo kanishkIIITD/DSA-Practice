@@ -721,6 +721,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1726,6 +1727,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -1801,6 +1803,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1642-water-bottles) |
