@@ -649,6 +649,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -1313,6 +1314,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1440,6 +1442,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0415-add-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
