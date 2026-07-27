@@ -757,6 +757,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1336,6 +1337,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -2169,6 +2171,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1405-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1405-longest-happy-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
