@@ -685,6 +685,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1460,6 +1461,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1947,6 +1949,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0806-domino-and-tromino-tiling](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -3032,6 +3035,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
