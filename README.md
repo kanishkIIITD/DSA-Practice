@@ -382,6 +382,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3447-clear-digits) |
@@ -1533,6 +1534,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -1712,6 +1714,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -2563,6 +2566,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2622,6 +2626,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2174-next-greater-numerically-balanced-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
