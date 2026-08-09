@@ -486,6 +486,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -730,6 +731,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
@@ -1469,6 +1471,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1968,6 +1971,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -3049,6 +3053,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
@@ -3135,4 +3140,12 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
