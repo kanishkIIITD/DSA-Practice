@@ -1483,6 +1483,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1622-fancy-sequence) |
@@ -1987,6 +1988,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -3054,6 +3056,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
@@ -3144,8 +3147,18 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
