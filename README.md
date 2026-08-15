@@ -478,6 +478,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Prefix Sum
 |  |
@@ -1092,6 +1093,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
