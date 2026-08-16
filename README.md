@@ -850,6 +850,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2048-build-array-from-permutation) |
@@ -1510,6 +1511,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1925-count-square-sum-triples](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1610,6 +1612,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1693,6 +1696,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -3072,6 +3076,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
@@ -3163,15 +3168,18 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
