@@ -85,6 +85,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -444,6 +445,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1009-complement-of-base-10-integer](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -764,6 +766,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
@@ -1678,6 +1681,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1405-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
