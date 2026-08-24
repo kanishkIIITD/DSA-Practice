@@ -512,6 +512,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1895-largest-magic-square) |
@@ -832,6 +833,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -1517,6 +1519,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -2036,6 +2039,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -3098,6 +3102,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -3191,12 +3196,14 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
