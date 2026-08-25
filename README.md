@@ -188,6 +188,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1107,6 +1108,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
