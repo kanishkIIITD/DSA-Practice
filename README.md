@@ -872,6 +872,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2107-find-unique-binary-string) |
@@ -1729,6 +1730,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2126-destroying-asteroids) |
