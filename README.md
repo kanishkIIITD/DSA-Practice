@@ -1142,6 +1142,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3863-power-grid-maintenance](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1623,6 +1624,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3830-find-closest-person](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Counting
 |  |
 | ------- |
