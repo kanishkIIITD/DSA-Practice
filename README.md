@@ -571,6 +571,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Array
 |  |
 | ------- |
@@ -1145,6 +1146,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
