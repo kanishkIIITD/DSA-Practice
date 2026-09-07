@@ -271,6 +271,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0953-reverse-only-letters) |
@@ -2025,6 +2026,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
