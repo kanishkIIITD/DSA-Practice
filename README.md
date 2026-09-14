@@ -1515,6 +1515,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0877-stone-game) |
@@ -3172,6 +3173,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishkIIITD/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
