@@ -361,6 +361,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1217,6 +1218,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2540-minimum-common-value) |
@@ -1765,6 +1767,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-frog-jump-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2498-frog-jump-ii) |
@@ -2093,6 +2096,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2554-minimum-total-distance-traveled](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kanishkIIITD/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
