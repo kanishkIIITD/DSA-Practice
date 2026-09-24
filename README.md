@@ -1091,6 +1091,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1627,6 +1628,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [3524-find-x-value-of-array-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
