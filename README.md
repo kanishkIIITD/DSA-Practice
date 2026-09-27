@@ -299,6 +299,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -2513,6 +2514,7 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -3307,4 +3309,8 @@ Collection of LeetCode and GeeksforGeeks questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kanishkIIITD/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
